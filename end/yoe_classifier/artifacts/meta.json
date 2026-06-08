@@ -1,0 +1,211 @@
+{
+  "estimator_name": "logreg_C0.5",
+  "threshold": 0.55,
+  "classes": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "cv_summary": {
+    "winner": {
+      "estimator": "logreg_C0.5",
+      "threshold": 0.55,
+      "n": 100,
+      "model_only_accuracy": 0.7,
+      "model_only_macro_f1": 0.6453090721383403,
+      "hybrid_accuracy": 0.87,
+      "hybrid_macro_f1": 0.837212543554007,
+      "hybrid_mae": 0.13,
+      "coverage": 0.88,
+      "kept_accuracy": 0.8863636363636364,
+      "flagged_pct": 0.12
+    },
+    "all_candidates": {
+      "logreg_C0.5": {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.88,
+        "kept_accuracy": 0.8863636363636364,
+        "flagged_pct": 0.12
+      },
+      "logreg_C1.0": {
+        "estimator": "logreg_C1.0",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.67,
+        "model_only_macro_f1": 0.6283673953165478,
+        "hybrid_accuracy": 0.84,
+        "hybrid_macro_f1": 0.8166990226268577,
+        "hybrid_mae": 0.16,
+        "coverage": 0.87,
+        "kept_accuracy": 0.8850574712643678,
+        "flagged_pct": 0.13
+      },
+      "logreg_C2.0": {
+        "estimator": "logreg_C2.0",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.68,
+        "model_only_macro_f1": 0.6338788100702089,
+        "hybrid_accuracy": 0.84,
+        "hybrid_macro_f1": 0.8166990226268577,
+        "hybrid_mae": 0.16,
+        "coverage": 0.92,
+        "kept_accuracy": 0.8369565217391305,
+        "flagged_pct": 0.08
+      },
+      "linsvc_C0.5": {
+        "estimator": "linsvc_C0.5",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.68,
+        "model_only_macro_f1": 0.6261904761904762,
+        "hybrid_accuracy": 0.82,
+        "hybrid_macro_f1": 0.7890151515151516,
+        "hybrid_mae": 0.18,
+        "coverage": 0.85,
+        "kept_accuracy": 0.8588235294117647,
+        "flagged_pct": 0.15
+      },
+      "linsvc_C1.0": {
+        "estimator": "linsvc_C1.0",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.67,
+        "model_only_macro_f1": 0.6135531135531136,
+        "hybrid_accuracy": 0.82,
+        "hybrid_macro_f1": 0.7890151515151516,
+        "hybrid_mae": 0.18,
+        "coverage": 0.81,
+        "kept_accuracy": 0.8765432098765432,
+        "flagged_pct": 0.19
+      },
+      "lightgbm": {
+        "estimator": "lightgbm",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.74,
+        "model_only_macro_f1": 0.748989898989899,
+        "hybrid_accuracy": 0.79,
+        "hybrid_macro_f1": 0.7916864003259236,
+        "hybrid_mae": 0.22,
+        "coverage": 0.79,
+        "kept_accuracy": 0.8607594936708861,
+        "flagged_pct": 0.21
+      }
+    },
+    "threshold_grid": [
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.4,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.91,
+        "kept_accuracy": 0.8571428571428571,
+        "flagged_pct": 0.09
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.45,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.9,
+        "kept_accuracy": 0.8666666666666667,
+        "flagged_pct": 0.1
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.5,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.89,
+        "kept_accuracy": 0.8764044943820225,
+        "flagged_pct": 0.11
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.55,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.88,
+        "kept_accuracy": 0.8863636363636364,
+        "flagged_pct": 0.12
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.6,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.83,
+        "kept_accuracy": 0.891566265060241,
+        "flagged_pct": 0.17
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.65,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.77,
+        "kept_accuracy": 0.8961038961038961,
+        "flagged_pct": 0.23
+      },
+      {
+        "estimator": "logreg_C0.5",
+        "threshold": 0.7,
+        "n": 100,
+        "model_only_accuracy": 0.7,
+        "model_only_macro_f1": 0.6453090721383403,
+        "hybrid_accuracy": 0.87,
+        "hybrid_macro_f1": 0.837212543554007,
+        "hybrid_mae": 0.13,
+        "coverage": 0.67,
+        "kept_accuracy": 0.8955223880597015,
+        "flagged_pct": 0.33
+      }
+    ],
+    "chosen_threshold": {
+      "estimator": "logreg_C0.5",
+      "threshold": 0.55,
+      "n": 100,
+      "model_only_accuracy": 0.7,
+      "model_only_macro_f1": 0.6453090721383403,
+      "hybrid_accuracy": 0.87,
+      "hybrid_macro_f1": 0.837212543554007,
+      "hybrid_mae": 0.13,
+      "coverage": 0.88,
+      "kept_accuracy": 0.8863636363636364,
+      "flagged_pct": 0.12
+    }
+  }
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "job_id": "17043824",
+    "title": "Middle Office Syndicate Operations Senior Lead",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "6-10 years of relevant experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 6-10 years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "14570528",
+    "title": "Managing Director, Project Development",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "15+ years of relevant post education experience in discipline, and in a leadership, management consulting, or client advisory capacity.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "17587882",
+    "title": "Manager Retail Operations Inventory & Workforce Management Analyst",
+    "label": 3,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Role is a Manager-level cross-functional Talent PMO/analytics/change management position, suggesting mid-career depth (6–15) rather than entry-level."
+  },
+  {
+    "job_id": "18760278",
+    "title": "Senior Applied Scientist, Selling Partner Growth",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 4+ years of applied research experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Title says Senior, but explicit YoE includes 4+ years and also PhD/MS + 6+ years applied research. Range spans early(2) to mid(3); best fit is mid due to 6+ years condition."
+  },
+  {
+    "job_id": "18706987",
+    "title": "Culture Specialist, Wellbeing Specialist",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 3 years of experience in business and/or healthcare setting.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 3 years maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "17855326",
+    "title": "Customer Engineer III, Financial Services, Platform, Google Cloud",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of experience with cloud native architecture in a customer-facing or support role.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly require 10 years, which maps to label 3 (6–15). However, the role title is “Customer Engineer III” and responsibilities suggest seniority; still, the explicit 10 years is the strongest signal."
+  },
+  {
+    "job_id": "16176054",
+    "title": "On-Demand: Guest Advocate (Cashier), General Merchandise, Fulfillment (T3411)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "We have some amazing training that will help teach you everything you need to know to be a Small Format Team Member",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Retail cashier/guest advocate/on-demand team member with training provided and no explicit experience requirements; fits entry/no-experience category."
+  },
+  {
+    "job_id": "18539080",
+    "title": "Director, Application Development - RPA",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Experience. You have 12+ years of experience in relevant skills gained and developed in the same or similar role.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Also mentions \"seven or more years of team leadership\" but the clearest YoE is \"12+ years\" which maps to >15? Actually 12+ is mid-to-senior; however label 4 is reserved for 15+ years. Given 12+ years, best fit is label 3 (6–15). Adjusting: label should be 3."
+  },
+  {
+    "job_id": "17225612",
+    "title": "Nurse Manager, RN - Ambulatory Surgery Center - Union Square - Mid Shift",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3-5 years of progressive nursing leadership experience demonstrating solid management abilities.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18553375",
+    "title": "Sr. Partner Development Specialist, Financial Services Industry - Banking and Payments, AMER Industry & Partner Solutions",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 5+ years of developing, negotiating and executing business agreements experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple Basic Qualifications require 5+ years across business development/GT M/sales/financial services/tech; maps to 3–5 years band (label 2) per rubric."
+  },
+  {
+    "job_id": "18581706",
+    "title": "Aladdin Client Experience, Associate",
+    "label": 2,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Aladdin Client Experience, Associate",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Title includes “Associate,” and responsibilities/leadership suggest early-career rather than entry-level; unsure due to lack of concrete YoE."
+  },
+  {
+    "job_id": "18304922",
+    "title": "barista - Store# 78771, HYLAN BLVD AND TYSENS LN",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Posting explicitly states no previous experience required; barista role with training implied."
+  },
+  {
+    "job_id": "18821698",
+    "title": "Nurse Anesthetist",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Role is a specialized clinical position (CRNA) typically requiring prior RN/clinical experience, but JD provides no clear YoE; conservative early-career mapping."
+  },
+  {
+    "job_id": "17225227",
+    "title": "SOUS CHEF (FULL TIME)",
+    "label": 2,
+    "decided_by": "management_scope",
+    "evidence_snippet": "Supervises hourly food service associates. Includes interviewing, scheduling, payroll, training, counseling, participating in reviews and recommending disciplinary action, as appropriate.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "Sous Chef implies supervisory responsibility but the JD only says 'Culinary experience required' with no explicit years; likely early-career (3–5) but could vary."
+  },
+  {
+    "job_id": "18479946",
+    "title": "Security Officer - Flex Armed Patrol Unit",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Career Growth: Get paid training and access to career growth opportunities.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "Armed security officer role with licensing/age requirements but no explicit years of experience; training is emphasized, suggesting entry-level/“will train” signals. Uncertain because armed roles can sometimes imply prior experience."
+  },
+  {
+    "job_id": "18647229",
+    "title": "Caregiver- CNA/HHA",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Previous experience working with seniors preferred",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Role is caregiver/CNA/HHA with no explicit years required; experience is only 'preferred', suggesting entry-level/low minimum experience."
+  },
+  {
+    "job_id": "14671173",
+    "title": "Specialty Sales (Style, Tech, Beauty) (T3291)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The good news is that we have some amazing training that will help teach you everything you need to know to be a style consultant.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "No explicit years of experience required; emphasizes training and onboarding for the role."
+  },
+  {
+    "job_id": "18222562",
+    "title": "Scientist/Senior Scientist",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 3 years of post-doctoral experience in pain research using rodent behavioral pain models and rodent surgical techniques is required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 3+ years post-doctoral experience; maps to early-career (3–5 years). Title includes “Senior” but the stated minimum is 3 years."
+  },
+  {
+    "job_id": "14768523",
+    "title": "National Planning Leader",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "15+ years of progressive leadership experience in planning, including full P&L ownership.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum requirement explicitly states 15+ years, mapping to label 4 (>15 years)."
+  },
+  {
+    "job_id": "17749427",
+    "title": "CAD Engineer (Entry Level)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The entry level CAD Engineer will produce and modify detailed technical drawings and 3D models using AutoCAD and MicroStation.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Explicitly labeled entry level; also says recent college graduate and training/mentorship will be provided."
+  },
+  {
+    "job_id": "18370720",
+    "title": "Account Executive",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5-7 years' experience with a strong working knowledge of Property and Casualty Insurance coverages",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also mentions \"2-5 years of Department Account Management & Service Required Relevant Experience\"; overall experience expectation aligns best with early-career (3–5) to mid (6–7), but 5–7 is the strongest explicit signal."
+  },
+  {
+    "job_id": "18101007",
+    "title": "Strategic Partner Development Senior Associate, Ad Platforms",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "4 years of experience in business development, partnerships, management consulting, or investment banking in the consumer electronics, auto and OEMs, telecom, e-commerce/retail, apps, ads, gaming, …",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly state 4 years experience, which maps to the 3–5 years (label 2) band."
+  },
+  {
+    "job_id": "18680008",
+    "title": "Coating Operator (Full-time) - Day Shift",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "This is an entry-level role where attention to detail, teamwork, and a willingness to learn are key.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Also explicitly requires 0-2 years of experience in manufacturing or warehouse work."
+  },
+  {
+    "job_id": "18759811",
+    "title": "Senior Product Manager, Grocery and Retail Discovery",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 5 years Product Management experience delivering highly successful and innovative technology products.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Explicit minimum is 5 years, which maps to label 2 (3–5). Title says Senior, which could imply higher, so boundary/uncertainty."
+  },
+  {
+    "job_id": "16539117",
+    "title": "Per Diem WOCN Specialist - Nursing Education - Mount Sinai West - Split Shift",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least two years of nursing experience as a WOCN",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly states 2+ years as WOCN; maps to early-career band (label 2)."
+  },
+  {
+    "job_id": "15683360",
+    "title": "Gastroenterology - Advanced Endoscopist / Therapeutic Endoscopy - Physician - MSM/MSW - Manhattan, NY",
+    "label": 3,
+    "decided_by": "skill_depth",
+    "evidence_snippet": "Demonstrated expertise in advanced endoscopic techniques and procedures",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "No explicit years of experience stated; advanced endoscopist/therapeutic endoscopy physician role implies mid-career depth (6–15) but could vary by hiring track."
+  },
+  {
+    "job_id": "17031178",
+    "title": "UKG Pro WFM - Senior Associate",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 3 years of experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 3 years; maps to early-career (3–5 years). Title says Senior Associate but experience requirement is the clearest signal."
+  },
+  {
+    "job_id": "17762191",
+    "title": "Instrumentation - Automation - SCADA Specialist - Northeast Region",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ Years' experience in Control System Design, PLC Programming, & SCADA Development",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18263387",
+    "title": "Kinaxis Solution Architect Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of experience in supply chain module implementation using Kinaxis Maestro",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Also says 3-5 years leading a team (preferred) and 3+ full life cycle implementations; overall maps best to early/mid boundary, but 5+ years is the clearest explicit signal."
+  },
+  {
+    "job_id": "18849479",
+    "title": "ABS Banking - Associate",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Three or more years of relevant work experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum stated as 3+ years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18648474",
+    "title": "Director; Reg Doc Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5 years of progressively responsible experience in the job offered or a related Finance occupation.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 5 years progressively responsible experience; maps to 3–5 years band (label 2)."
+  },
+  {
+    "job_id": "14176902",
+    "title": "EY-Parthenon - Strategy and Execution - Deal Management - Director",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A bachelor's degree in Business, Accounting, Finance, Engineering, Computer Science, or Analytics and 5 years of related work experience; or a graduate degree and approximately 3 years of related w…",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Director role with explicit 5 years minimum (maps to label 2), but seniority/title suggests higher; boundary/uncertainty between early-career minimum and director-level expectations."
+  },
+  {
+    "job_id": "15378758",
+    "title": "Family Medicine - Physician - West 53rd 8th Avenue - Manhattan, NY",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "JD is for a Family Medicine Physician and only says \"Some Experience preferred\" without a clear YoE range; using conservative industry default for outpatient physician roles (often early-career)."
+  },
+  {
+    "job_id": "18649033",
+    "title": "Building Maintenance Assistant",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Related experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "No explicit years; role is an assistant/support position with training mentioned. 'Related experience' is vague, so mapped to entry/early-career but uncertain."
+  },
+  {
+    "job_id": "18737483",
+    "title": "Customer Success Engineer - App Integration (US FSM East)",
+    "label": 3,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "JD says \"experienced\" and emphasizes deep technical expertise, presales, workshops, POCs, and owning customer adoption journey, but no explicit years. Likely mid-career (6–15) for an \"experienced\" customer success/technical specialist role."
+  },
+  {
+    "job_id": "16964902",
+    "title": "Mergers and Acquisitions Product Technology Diligence Manager",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "+ At least 6 years of software and technology experience in the majority of the following areas: IT organization, IT processes, applications (custom-developed and off-the-shelf), infrastructure, cl…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role requires 6+ years software/technology experience and 6+ years M&A product tech/software due diligence; also includes Manager responsibilities, aligning with mid-career (6–15 years)."
+  },
+  {
+    "job_id": "17099324",
+    "title": "Oracle HCM Payroll Lead",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 6 years' of experience in Oracle Payroll Cloud",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also requires Minimum of 2 full life-cycle Oracle Payroll Cloud implementations, reinforcing mid-level depth."
+  },
+  {
+    "job_id": "18515517",
+    "title": "Strategic Partner Development Lead, Gemini for Home",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7 years of experience in business development, partnerships, management consulting, or investment banking, or 5 years with advanced degree.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly require 7 years (or 5 with advanced degree), which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18234234",
+    "title": "Product Engineering: Lead Product Manager",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of proven experience in product management or related roles.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years, which maps to label 4 (>15) only if interpreted strictly; however 10+ is more mid-to-senior. Given the label boundaries, this is closest to 3 (6–15). But since label 4 is >15, I’m marking unsure due to mismatch between explicit 10+ and label definition."
+  },
+  {
+    "job_id": "17560189",
+    "title": "Regional Account Manager",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 5-6 years of relevant management experience with increasing responsibility within the private sector security industry or related public sector.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum is 5–6 years; 5 maps to early-career (label 2) while 6 would be mid (label 3). Best fit is label 2 due to explicit 5–6 range starting at 5."
+  },
+  {
+    "job_id": "17693609",
+    "title": "EY-Parthenon - Strategy and Execution - Deal Finance - Senior Associate - Consultant",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "A bachelor's degree in Business, Accounting, Finance, Engineering, Computer Science, or Analytics and 2 years of related work experience; or a graduate degree and approximately 18 months of related…",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Role is titled Senior Associate, but explicit experience requirement is 2 years (or ~18 months with grad degree), which maps to early-career (label 2). Title suggests higher, so boundary/uncertainty."
+  },
+  {
+    "job_id": "18737921",
+    "title": "Sr. Technical Account Manager, Amazon Enterprise Creators",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of business development, partnership management, or sourcing new business experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“5+ years” maps to early-career (3–5) vs mid-career (6–15). Since it’s explicitly 5+ (not 6+), best fit is label 2."
+  },
+  {
+    "job_id": "16984942",
+    "title": "Computer Support Specialist | Information Technology",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least two (2) years of experience with the setup and troubleshooting of Apple and Windows devices, and related network and OS support",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly states 2+ years, which maps to 0–2 years bucket (label 1) per guideline."
+  },
+  {
+    "job_id": "18758201",
+    "title": "Executive Director, Global Program Leader, Oncology",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of experience in the drug development process and leadership experience in academic or industry setting, including education where applicable.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is Executive Director with explicit 10+ years requirement; maps to senior band (>15) only if typical Executive Director implies more, but explicit text is 10+ (mid). However label boundary: 6–15 years is label 3; 10+ fits label 3. Yet title is Executive Director suggesting >15; choose best mapping to stated YoE: 10+ => label 3. Adjusting: label should be 3, not 4."
+  },
+  {
+    "job_id": "18580208",
+    "title": "Maintenance Manager",
+    "label": 3,
+    "decided_by": "education_substitute",
+    "evidence_snippet": "3+ years of management experience leading technical teams",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Education implies Advanced Degree + 6 years or BS + 8 years in relevant maintenance/engineering, which maps to mid-career (label 3). Also requires 3+ years management. Some ambiguity because management min is 3+ (could be label 2), but the education+experience formula is stronger."
+  },
+  {
+    "job_id": "18758240",
+    "title": "Senior Director, Client Partner - Insurance",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 15+ years in the Insurance domain, in a client facing role or account leadership role, in an IT professional services or management consulting firm",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 15+ years, and title is Senior Director with account P&L scope ($50–70M)."
+  },
+  {
+    "job_id": "17970714",
+    "title": "Senior Privacy Engineer, Cloud Privacy Operations and Engineering",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "4 years of experience working in a privacy related field (e.g., security engineering, data engineering, data scientist, compliance engineering etc.).",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also says 1 year leading teams across multiple workstreams and 1 year leading privacy technologies; preferred adds 3 years in privacy engineering/security engineering. Despite 'Senior' title, explicit minimum is 4 years which maps to label 2, but overall senior/mid signals suggest label 3."
+  },
+  {
+    "job_id": "18224038",
+    "title": "Director, Product Marketing, Addressable/Out-of-Home (OOH) Ad Sales",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5 - 7 years required, 7+ years desired experience in Product Marketing, Marketing, or similar field.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Director role with explicit 5–7 years required; maps to mid-career (6–15) per boundary rule."
+  },
+  {
+    "job_id": "18831941",
+    "title": "MES Solution Architect Manager",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ 7+ years of Manufacturing Execution System (MES) experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit requirements (7+ years MES; 5+ years implementing; leading 2+ implementations) strongly indicate mid-career (6–15)."
+  },
+  {
+    "job_id": "15420070",
+    "title": "Senior Principal Software Engineer - Databircks",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification on software engineering concepts and 10+ years applied experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Title is Senior Principal (senior), and requirements explicitly say 10+ years. 10+ could map to label 3 (6–15) or 4 (15+), so best fit is 3, but principal suggests 4; marked unsure."
+  },
+  {
+    "job_id": "17970775",
+    "title": "Mechanical Engineer 4",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 5 years of related experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly states 5 years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18647857",
+    "title": "Manager, Maintenance Field Operations",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of industry experience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is a manager leading maintenance operations and technicians; explicit minimum is 5+ years, which maps to label 3 (6–15) as the best fit among available bands."
+  },
+  {
+    "job_id": "18725640",
+    "title": "Senior Manager, Global Site Start Up Lead",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "a minimum of a Bachelor's degree and 8+ years of relevant industry expereince is required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 8+ years maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "17665507",
+    "title": "Senior Leader, ProServe AI/GenAI/Agentic Specialists, Healthcare and Life Sciences",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 7+ years of working with Data & AI related technologies, including, but not limited to, AI/ML, GenAI, Analytics, Database, and/or Storage experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Basic Qualifications also include 7+ years in Healthcare/Life Sciences and 3+ years team leadership, reinforcing mid-career+."
+  },
+  {
+    "job_id": "16898812",
+    "title": "Senior Account Director (Alliance Director) ONSITE- NY, NY",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Requires 8 years or more of relevant work experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 8+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "17375229",
+    "title": "Asset Management - US ETF Product Specialist - Vice President",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5+ years of financial services experience, including strong knowledge of financial markets and products, preferably focused on the Asset Management industry",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also requires 3+ years in product research and development; VP title supports seniority but explicit mins (5+ and 3+) map best to early-career (3–5) rather than mid (6–15)."
+  },
+  {
+    "job_id": "17587375",
+    "title": "Director of Admissions - Craig Newmark Graduate School of Journalism at CUNY",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's Degree and eight years' related experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum of 8 years maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18477414",
+    "title": "Lot Associate",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience; role is entry-level retail/customer service support (loading assistance, carts, entrance monitoring). Likely 0–2 years but could vary by store."
+  },
+  {
+    "job_id": "17655469",
+    "title": "Chief Campus Counsel - Office of the President",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "J.D. from an ABA-accredited law school and ten (10) years related higher education experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 10 years, and preferred is 10–15 years of experience practicing law; both indicate senior/executive-level depth. Label 4 corresponds to >15, but the ad’s explicit minimum is 10 and preferred up to 15; however the role is explicitly Executive Compensation Plan and Chief Campus Counsel/President’s Cabinet, so I’m mapping to the highest seniority band."
+  },
+  {
+    "job_id": "17447703",
+    "title": "Senior Solutions Architect, Games",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 8+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit minimums (8+ years, 10+ years, plus 3+ years consulting). Best fit is mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18792304",
+    "title": "Global Research - Private Company Research, Space & Defense Tech - Associate",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. 'Associate' in research roles at large banks is commonly early-career (often ~3–5 years), but this is not guaranteed."
+  },
+  {
+    "job_id": "17886071",
+    "title": "Program Coordinator I-Selikoff Centers for Occupational Health",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "None required, but 1-2 years administrative experience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly Program Coordinator I with 'None required' and only 1–2 years preferred, indicating entry/early-career."
+  },
+  {
+    "job_id": "18263210",
+    "title": "Risk Engineer (All Levels & Specialty Areas)",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "Posting is for “All Levels” with no explicit years of experience; conservative default for a Risk Engineer role is early-career (3–5 years)."
+  },
+  {
+    "job_id": "18802659",
+    "title": "Information Security Engineering Associate Manager DLP",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years of Information Security Analysis experience, or equivalent demonstrated through a combination of work experience, training, military experience, or education",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Also requires 1+ year people leadership and multiple 2+ year desired qualifications (DLP ops, GRC, ML-enabled capabilities). Title is Associate Manager, but explicit YoE minimums point to early-career (3–5 band) rather than mid/senior."
+  },
+  {
+    "job_id": "18079915",
+    "title": "Risk Management - Market Risk Coverage Senior Officer",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 3 years of relevant experience in derivatives (trading, sales, structuring, market risk, VCG, MGG, product control, or risk reporting).",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also says “Market Risk Senior Associate” and “Senior Officer,” but the explicit minimum experience is 3 years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18772977",
+    "title": "ASSOCIATE CONSULTANT, TECHNOLOGY DESIGN (REMOTE)",
+    "label": 1,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "One to two years of related professional experience in building engineering and design (electrical engineering, mechanical engineering, audiovisual and low voltage systems or similar) or equivalent…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly for 1–2 years related experience and described as supporting under senior team members."
+  },
+  {
+    "job_id": "18736924",
+    "title": "Account Manager, Franchise Global Delivery Partnerships",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "4+ years of experience, ideally in account management, consultative sales, or business development.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Stated minimum is 4+ years, which maps to label 2 (3–5). However, the role emphasizes complex enterprise/franchise partnerships and multi-year strategic advising, making it plausibly mid-career; boundary/uncertainty between 2 and 3."
+  },
+  {
+    "job_id": "18253368",
+    "title": "RN (FH) Operating Room",
+    "label": 1,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 1-2 years of RN operating room exprience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "RN OR experience minimum is 1–2 years, which maps to entry/early-career (0–2 years)."
+  },
+  {
+    "job_id": "15374298",
+    "title": "Team Member TB40317-Parsippany 2",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Previous experience in a restaurant or customer service role is preferred but not required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is for Restaurant Crew/Team Member with no experience required; fast-paced customer service/food prep tasks typical of entry-level."
+  },
+  {
+    "job_id": "11808851",
+    "title": "Client Solutions Manager (Technology)",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2+ years of business-to-business development experience and/or working in an IT-related field is preferred.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience signal is 2+ years, which maps to early-career (label 2) rather than entry (label 1)."
+  },
+  {
+    "job_id": "17480520",
+    "title": "baker/porter, New York Reserve",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience; role is a bakery/porter position with general service-industry experience and no stated minimum. Likely entry-level/early-career, but uncertain due to lack of clear YoE signals."
+  },
+  {
+    "job_id": "18849126",
+    "title": "Assistant Engineering Manager",
+    "label": 2,
+    "decided_by": "management_scope",
+    "evidence_snippet": "The Assistant Engineering Manager will support Engineering Managers in overseeing rail construction projects across multiple engineering disciplines, including electrical, signal, traction power, c…",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Title implies junior leadership/support to Engineering Managers; mapped to early-career (3–5) as best fit, but could vary."
+  },
+  {
+    "job_id": "17505610",
+    "title": "Technical Account Manager - OTC Pricing",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Role is an Account Manager/technical support domain expert; likely early-career (3–5) but could vary by internal leveling, so uncertain."
+  },
+  {
+    "job_id": "12589214",
+    "title": "Physician Practice Compliance Specialist",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 5 years coding and/or audit experience in a hospital, consulting firm or practice management setting.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum 5 years maps to early-career band (3–5 years)."
+  },
+  {
+    "job_id": "18649334",
+    "title": "Business Operations Analyst",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years of experience in business strategy and operations as a management consultant or in a comparable role at a technology company; SaaS experience is a plus",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum is 2+ years, which maps to label 1 by the rubric, but the role is titled Associate/analyst with strategy/ops expectations that often skew early-career; boundary between 1 and 2 is plausible."
+  },
+  {
+    "job_id": "18164578",
+    "title": "Clinical Oncology Associate (Medical Assistant) - RTC Office Practice - Mount Sinai Hospital - Full Time Days (11am-7pm)",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "0-2 yrs. experience as medical assistant or related experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18193156",
+    "title": "Join Our Talent Network - Counter Threat Finance Analyst (New York City)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "High School diploma with 10+ years of relevant experience OR Bachelor's/Master's with 5+ years of experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Stated experience is 10+ years (maps to label 4). However, the alternative path says 5+ years, which would map to label 2/3; overall best fit is 4 due to the explicit 10+ requirement."
+  },
+  {
+    "job_id": "18401267",
+    "title": "Material Handler III",
+    "label": 2,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Material Handler III",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Title includes “III,” suggesting some experience beyond entry-level; mapped to early-career (3–5 YoE) but uncertain."
+  },
+  {
+    "job_id": "18402895",
+    "title": "EVENT CHEF (FULL TIME)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 10 years of culinary experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years; per mapping 6–15 => label 3, but 10 years is clearly mid-career. However label 4 is for >15 years; thus label should be 3. (Adjusting: label 3.)"
+  },
+  {
+    "job_id": "17780899",
+    "title": "Automotive Detailer - Car Washer - Mount Kisco",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "We are seeking a responsible, dedicated person to join our team as a full time Automotive Detailer.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "No explicit YoE; role is car washing/detailing with only a basic requirement of “at least six (6) consecutive months of prior work/organizational experience,” which maps to entry-level (0–2 years)."
+  },
+  {
+    "job_id": "18760750",
+    "title": "Product Manager/General Manager, New Payment Rails",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of experience in financial services, digital, product management, operations management",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 7+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18617699",
+    "title": "Credit Associate - Private Banking Commercial Real Estate",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 2 years of progressively increasing credit underwriting and portfolio management experience in relevant industry/industries",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum 2 years maps to early-career band (label 2)."
+  },
+  {
+    "job_id": "18282255",
+    "title": "Relationship Banker, Bay Ridge, Brooklyn, NY",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3+ Years Experience selling products and/or services in an incentive-based environment - Required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD requires 3+ years sales experience (also includes 12+ months retail banking sales as an alternative), which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18371102",
+    "title": "Home Infusion Nurse - Bronx",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 1 years of nursing experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Title says Infusion Nurse II and responsibilities include mentorship/training, but the only explicit YoE is “Minimum of 1 years,” which maps to label 1; however “Nurse II” and intermediate care/mentorship suggest early-career (3–5) more than entry. Chose label 2 as best fit; unsure due to conflicting signals."
+  },
+  {
+    "job_id": "18119349",
+    "title": "Director, Implementation Consultant",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8+ years experience in financial services, familiarity with insurance clients a plus",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“8+ years” maps to mid-career (6–15 years). Director title aligns but YoE is explicit."
+  },
+  {
+    "job_id": "18647240",
+    "title": "Occupational Therapist",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit YoE requirement; qualifications only say prior experience preferred and include an 'Experience (Years) 1' field. Chose early-career (3–5) conservatively due to lack of clear mapping, but unsure."
+  },
+  {
+    "job_id": "18446666",
+    "title": "Staff Economist, Data Center, Economic Strategy",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7 years of experience in economic consulting, corporate economic strategy, public sector economic development, or think tanks, with a specific focus on US regional economics, economic impact analys…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18791306",
+    "title": "Diesel Technician II -Experienced",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3 years of practical experience with vehicle maintenance required",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Technician II with explicit requirement of 3 years practical experience; maps to 3–5 years (label 2)."
+  },
+  {
+    "job_id": "18680191",
+    "title": "Technician",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Prior semiconductor, photonics or cleanroom experience preferred, however, full training is provided.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role is a Technician with explicit “full training is provided” and no stated years of experience; cleanroom/production tasks suggest entry-level/0–2 YoE."
+  },
+  {
+    "job_id": "18581909",
+    "title": "Java Algo Developer, Fixed Income, Assistant Vice President",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Proficiency in core Java (5+ years of experience) with demonstrable success in developing multi-threaded applications.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly states 5+ years; maps to mid-career band (6–15) per rubric boundary handling for 5+."
+  },
+  {
+    "job_id": "18147065",
+    "title": "Sales Specialist, High Performance Computing, Biotech, Google Cloud",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of experience in a direct quota carrying sales role.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly require 10 years, which maps to label 3 (6–15). However, the role is titled “Sales Specialist” and includes executive sales language; still, the explicit minimum is 10 years, so label should be 3. (No ambiguity in the stated minimum.)"
+  },
+  {
+    "job_id": "18224280",
+    "title": "Senior Network Sales Engineer and Architect",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Master's degree with minimum of 15+ years in network architecture or engineering roles",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 15+ years in network architecture/engineering, mapping to >15 years (label 4)."
+  },
+  {
+    "job_id": "18848097",
+    "title": "Senior Manager, GTM Operations - Madison, NJ",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "6+ years of experience in GTM operations, marketing operations, program management, or a highly operational or project management role",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18758078",
+    "title": "Lead Infrastructure Engineers",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "plus five (5) years of related experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also states: \"The company will also accept a Master's degree and three (3) years of related experience.\" Lead + 5 years maps to mid-career (6–15) per rubric."
+  },
+  {
+    "job_id": "17853863",
+    "title": "Entry Production Team Member - Bulk Packer",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Minimum 1 year of work experience, preferably in manufacturing or foodproduction.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Despite the title saying Entry, the JD requests a minimum of 1 year, which still fits the 0–2 years (entry/early) band."
+  },
+  {
+    "job_id": "18647138",
+    "title": "Sales Representative",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "The ideal candidate will have three or more years of prior sales experience",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "JD explicitly requires 3+ years related sales experience, which maps to label 2 (3–5 years)."
+  },
+  {
+    "job_id": "18848279",
+    "title": "Certified Nursing Assistant, CNA",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Whether you're an experienced professional or just starting your career, we offer opportunities for growth, development, and advancement in a range of roles.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "No explicit years of experience required; CNA role emphasizes certification and ADL assistance, with language suggesting candidates can be new to the career."
+  },
+  {
+    "job_id": "17926873",
+    "title": "Senior Accountant",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Three (3) to five (5) years of general accounting/finance experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 3–5 years requirement maps to early-career (label 2)."
+  },
+  {
+    "job_id": "16637360",
+    "title": "Supervisor, Mechanics",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 10 years of experience in mechanical maintenance or construction within a large institution or commercial facility with complex infrastructure systems.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also mentions “Approximately 5 plus years in a previous supervisory capacity is preferred,” but the explicit minimum is 10 years, which maps to mid-career (6–15)."
+  },
+  {
+    "job_id": "15522475",
+    "title": "Sr. Manager, Field Engineering",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years relevant technical elevator experience required",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is Sr. Manager and includes leadership/training/quality responsibilities, but the explicit experience requirement is 5+ years, which maps to the 3–5 early-career band per instructions."
+  },
+  {
+    "job_id": "18848038",
+    "title": "Electrical Engineer",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ 3+ years of firmware development experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum is 3+ years, which maps to early career (3–5 years)."
+  },
+  {
+    "job_id": "18402872",
+    "title": "Part Time Teller (20 Hours) Fordham Branch",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The Teller is an entry-level position responsible for assisting with the execution of branch activities",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Explicitly described as entry-level; teller role with no stated years required."
+  },
+  {
+    "job_id": "16931905",
+    "title": "Account Executive - Mid-Market Retail",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8-10 years' experience in a Consulting or Custom Software selling environment.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18803619",
+    "title": "Principal Account Executive, Retail",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "11 years of industry experience in digital advertising, consultative sales, business development, or digital marketing, or 8 years of experience with an advanced degree.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications specify 11 years (or 8 with advanced degree), which maps to >15? Actually 11 years aligns to mid-career (label 3). However title is Principal and responsibilities suggest seniority; still the explicit minimum is 11, so label 3 is most consistent. Re-evaluating: label 3 = 6–15 years; 11 fits. Set label to 3."
+  },
+  {
+    "job_id": "18119803",
+    "title": "Advance Clinical Provider Navigator: OBGYN NP/PA (Experience Strongly Preferred)",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated; only 'Experience Strongly Preferred' and clinical leadership/coordination duties. Chose conservative early-career (3–5 YoE) as typical for NP/PA navigator roles, but uncertain."
+  },
+  {
+    "job_id": "18850109",
+    "title": "Sales Administrator (Temporary) - Millennium Hilton New York One UN Plaza",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Our ideal candidate has a minimum of one year of experience as a sales or events administrative assistant, or comparable experience within a hotel environment .",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Minimum 1 year experience maps to entry/early-career (0–2 years)."
+  },
+  {
+    "job_id": "18205764",
+    "title": "Principal Associate, Data Scientist - LLM Customization Team",
+    "label": 4,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Principal Associate, Data Scientist - LLM Customization Team",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "“Principal Associate” strongly implies senior/principal-level experience (>15 years), but the JD provides degree+experience formulas (BS+5, MS+3, PhD unspecified) that could map lower; no explicit “15+ years” requirement."
+  },
+  {
+    "job_id": "7670636",
+    "title": "Instructor- Oncological Sciences",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Postdoctoral Research (5+ years)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "5+ years postdoctoral research implies mid-career depth (6–15 band)."
+  },
+  {
+    "job_id": "18252725",
+    "title": "Security Guard - Perimeter Patrol Rounds",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Have 1+ years of security experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum is 1+ years, which is closer to entry (label 1), but the presence of a specific minimum (1+) makes it ambiguous; I mapped to early-career (label 2) conservatively."
+  },
+  {
+    "job_id": "18251077",
+    "title": "Project Manager (Electrical - Senior)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 10+ years experience in high volume commercial electrical contractor.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years, which maps to label 4 (>15) only if interpreted strictly; however 10+ is more consistent with label 3 (6–15). Given the explicit 10+ and no 15+ requirement, best fit is label 3, but boundary is ambiguous—set unsure."
+  },
+  {
+    "job_id": "18403116",
+    "title": "Technical Lead Manager, Cluster Filesystems, Storage",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ 8 years of experience in software development.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also requires 3 years technical leadership and 2 years people management, reinforcing mid-career+."
+  },
+  {
+    "job_id": "17853464",
+    "title": "Sr Parts Technician",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum Qualifications: High School Diploma or GED equivalent and up to a 2 years of direct experience and/or training, or equivalent combination of education and experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Despite “Sr” in the title, the stated minimum is “up to a 2 years” (entry-ish). The role also includes mentorship/parts manager-like duties, so there’s some ambiguity; best fit is early-career (3–5) but evidence points lower—hence unsure."
+  },
+  {
+    "job_id": "18381907",
+    "title": "Executive Administrative Partner",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of relevant experience providing administrative support to 1 or more executives",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 5+ years for multiple admin functions (support, travel logistics, calendar/expenses), which maps to early-career (3–5) boundary but clearly indicates at least 5+; best fit is label 2."
+  },
+  {
+    "job_id": "18553349",
+    "title": "Talent Acquisition Assessment Skills Governance & Control Lead",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ Years of related experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 7+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18478208",
+    "title": "Food and Beverage Operations Manager - Marriott Newark Airport",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "- High school diploma or GED; 4 years experience in the food and beverage, culinary, or related professional area.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD requires 4 years experience (or 2 years with a 2-year degree). The 4-year minimum maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18617636",
+    "title": "Bloomberg Intelligence, Therapeutics - Research Associate  - Contract",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. 'Research Associate' with graduate degree and tools (Python/Excel) suggests early-career (3–5 YoE) rather than entry-level, but uncertainty remains."
+  },
+  {
+    "job_id": "18281409",
+    "title": "Account Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "4+ years of experience in IT service management",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit requirements (4+ years; 2+ years in ITIL/incident/problem/service delivery). Best fit is early-career 3–5 years."
+  },
+  {
+    "job_id": "17750008",
+    "title": "Cloud Engineer-Vice President",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of experience in technology systems development or management, with at least 5+ years focused on cloud automation and infrastructure engineering.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years overall, which maps to >15 only if strictly; however the role is clearly senior (VP) and includes 10+ years minimum. Given the explicit 10+ years, best fit is label 4 (senior/executive depth) per instruction mapping."
+  },
+  {
+    "job_id": "18849200",
+    "title": "Executive Director Investment Banking - Data Centers",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of Investment Banking experience, or equivalent demonstrated through one or a combination of the following: work experience, training, military experience, education",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD explicitly requires 7+ years (maps to label 3), but the title is Executive Director/Senior Lead Investment Banker which often implies seniority beyond 15 years; boundary between 3 and 4 is unclear."
+  },
+  {
+    "job_id": "18224200",
+    "title": "Software Engineer II- Test Automation",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification on software engineering concepts and 3+ years applied experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also mentions Software Engineer III in description, but explicit requirement is 3+ years, which maps to early-career (label 2)."
+  },
+  {
+    "job_id": "16790808",
+    "title": "barista - Store# 07719, 744 ROUTE 1 NORTH",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role explicitly states no previous experience required; barista is an entry-level position."
+  },
+  {
+    "job_id": "15320281",
+    "title": "Admitting Representative - Mount Sinai Brooklyn - Emergency Dept. part-time 0.6 fte day",
+    "label": 1,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "1-2 years experience in medical environment and patient registration and insurance verification",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18849412",
+    "title": "Sr. Clinical Sales Specialist, Coronary - Long Island, NY",
+    "label": 2,
+    "decided_by": "education_substitute",
+    "evidence_snippet": "Associate Degree and a minimum of 4 years of Cardiac Catheterization Lab / Operating Room experience may be accepted in lieu of Bachelor's degree.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Role is titled “Senior,” but explicit experience requirement is “minimum of 4 years” (maps to early-career 3–5). No explicit upper bound or additional years stated; unsure whether “Senior” implies more than 5 years."
+  },
+  {
+    "job_id": "18616422",
+    "title": "barista - Store# 08811, GILLETTE",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Posting explicitly states no previous experience required; consistent with entry-level training."
+  },
+  {
+    "job_id": "18849282",
+    "title": "CUNY Office Assistant (Provisional) - Physics",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Two (2) years of experience performing general office work",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly requires 2 years of general office work; maps to early-career band (label 2) per provided YoE buckets."
+  },
+  {
+    "job_id": "17884140",
+    "title": "Radiology Technologist (Full-Time)",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "JD text is for Pharmacy Technician (not Radiology Technologist) and includes 'At least one year of pharmacy experience' (would map to label 1), but title suggests a different role. Due to mismatch, choose conservative early-career default."
+  },
+  {
+    "job_id": "17915318",
+    "title": "Senior Staff Engineer, Data Management",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Experience: 8+ years in data architecture/engineering in a scientific or manufacturing context; proven delivery in hybrid cloud/onprem data lakes/warehouses.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "8+ years maps to mid-career (6–15 years). Title also indicates seniority but YoE is explicit."
+  },
+  {
+    "job_id": "18010317",
+    "title": "Student Disability Services Specialist",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's degree and four years' related experience required",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly states 4 years related experience, which maps to 3–5 years (label 2)."
+  },
+  {
+    "job_id": "18348703",
+    "title": "Oracle Services - Oracle Cloud Finance - Manager - Tech Cons - Open Location",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "4 to 6 years of relevant experience working with an ERP system in a software configuration implementation role; or finance/accounting businessperson with experience as an Oracle financials super user",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Manager role, but explicit requirement is 4–6 years (spans labels 2 and 3). Best fit is mid-career (6–15) due to 6-year end and managerial scope; boundary ambiguity remains."
+  },
+  {
+    "job_id": "18597509",
+    "title": "Senior Manager - Product Partnerships",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Experience: A minimum of 12 years of related experience with a Bachelor's degree; or 8 years and a Master's degree; or a PhD with 5 years of experience;",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 12+ years (or equivalent via degree/experience tradeoffs), which maps to >15? borderline, but 12+ strongly indicates senior/professional depth; label set to 4 per explicit minimum 12+ being closer to senior than mid."
+  },
+  {
+    "job_id": "15996191",
+    "title": "Chief of Gastroenterology and Hepatobiliary - Physician - Oceanside, NY",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "The ideal candidate for this position is a Board-Certified Gastroenterologist who has practiced for at least five years",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "“at least five years” maps to label 2 (3–5) but the role is Chief/leadership with administrative oversight, which could imply more; boundary between early-career leadership vs mid-career."
+  },
+  {
+    "job_id": "18581238",
+    "title": "Manager, Communications - Editor & Writer",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "6 years of editing, writing and editorial experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly requires 6+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18803605",
+    "title": "Sr Technical Content Creator, Developer Marketing",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "- 5+ years of designing and producing content for a technical audience, such as Software Engineers, System Administrators, or IT professionals experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 5+ years, which maps to the 3–5 early-career band per instructions (label 2). No higher seniority signals like 10+ or principal."
+  },
+  {
+    "job_id": "17025461",
+    "title": "Software Engineer Embedded/Network Systems I (Co-Op) - United States",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Currently enrolled in an undergraduate degree program.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Co-Op / Embedded/Network Systems I with undergraduate enrollment and no stated experience requirement; signals entry-level/no experience."
+  },
+  {
+    "job_id": "15319246",
+    "title": "General Manager 5 - Food",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum Management Experience - 5 years",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 5 years minimum management and 5 years functional experience; maps to label 3 (6–15) as the closest class for senior GM-level scope, though 5 is on the lower boundary of label 2."
+  },
+  {
+    "job_id": "17961693",
+    "title": "Intelligent Transportation Systems Engineer IV",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 10 years of progressively responsible professional experience in system design, development, and/or system/database administration.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Despite the title “Engineer IV,” the JD explicitly requires 10+ years, which maps to label 3 (6–15). However, the role also describes senior technical/supervisory oversight; still, the explicit YoE minimum is 10, so label 3 is the best fit. (No conflict in stated years.)"
+  },
+  {
+    "job_id": "17655592",
+    "title": "Senior Structural Engineer, Rail + Transit (Design)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of structural engineering experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years; maps to mid-to-senior band, but label 4 is for >15 years. However the ad also says \"Senior\" and \"10+ years\" only—this is closer to label 3 (6–15). Boundary: mapping 10+ to label 3; choose 3. (unsure due to label definition mismatch)."
+  },
+  {
+    "job_id": "17965482",
+    "title": "Regional Consultant Strategy Lead (Hybrid)",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years industry experience (particularly carrier and/or consultant environment)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 5+ years maps best to mid-career band (6–15) per rubric; no explicit upper bound or conflicting YoE."
+  },
+  {
+    "job_id": "18118094",
+    "title": "Diesel Mechanic Technician",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Three (3) years or more relevant work experience, preferred",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Also states: \"Must have a minimum of 2 years of experience with mechanical repairs and diagnostics on heavy duty and medium duty equipment\" and calls it \"Senior Level Diesel Technician\"; overall YoE best fits early-career (3–5) but senior wording adds some uncertainty."
+  },
+  {
+    "job_id": "16952477",
+    "title": "Capgemini Invent - Digital Core - Senior Manager",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of experience in enterprise processes, transformation, project delivery, process consulting & re-engineering, business operating models, strategy, and business case development",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD explicitly requires 10+ years, which maps to label 3 (6–15). However the title is Senior Manager and the role scope suggests seniority; choosing label 4 would be plausible if interpreted as 15+ but not stated. Marked unsure."
+  },
+  {
+    "job_id": "16602107",
+    "title": "Bridge Engineer",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit YoE stated. Role describes lead technical engineer and demonstrated professional years, but without a number; defaulting to early-career (3–5) as a conservative industry norm for a non-senior bridge engineer."
+  },
+  {
+    "job_id": "224244",
+    "title": "Family Medicine - Physician - Union Health Center - Manhattan, NY",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience or seniority requirements in the provided text; for a Primary Care Physician role, defaulting conservatively to early-career (3–5 years) but this is uncertain."
+  },
+  {
+    "job_id": "16845289",
+    "title": "Senior Software Engineer - Network Policy Automation",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "4+ years of experience working with an object-oriented programming language (C/C++, Python, Java, etc.)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Title says Senior, but explicit requirement is 4+ years, which maps to early-career (3–5)."
+  },
+  {
+    "job_id": "18582648",
+    "title": "RN (F/T) (MedSurg)",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "Registered Nurse role with no explicit years of experience; qualification focuses on licensure/BSN enrollment. Experience level likely entry-to-early career, but uncertain because RN postings can vary by unit."
+  },
+  {
+    "job_id": "18791952",
+    "title": "Part-Time Teller (20 Hours), Rego Park Branch",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The Teller is an entry-level position responsible for assisting with the execution of branch activities…",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Explicitly labeled entry-level; teller role with no stated experience minimums."
+  },
+  {
+    "job_id": "18382580",
+    "title": "Sr Product Manager, Lightning CTV",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of digital product management/development experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“Senior Product Manager” plus explicit “5+ years” maps to early-to-mid career; label 2 covers 3–5 years minimums, and 5+ is closest to that boundary."
+  },
+  {
+    "job_id": "17614167",
+    "title": "Outpatient Dietitian",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience required; role emphasizes RD credential/licensure and Spanish proficiency. Dietitian postings like this are often entry-to-early career, but experience expectations are unclear."
+  },
+  {
+    "job_id": "18680042",
+    "title": "Managed Services - AI Operations & Incident Commander - Senior Associate",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 3 years of experience leading managed services/operations delivery for enterprise platforms, including ITIL-aligned incident, problem and change management",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly stated as at least 3 years, which maps to the 3–5 years (label 2) band."
+  },
+  {
+    "job_id": "17944594",
+    "title": "Research Assistant | Laboratory of Integrative Brain Function",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Will be set based on various factors, including but not limited to organizational budgets, qualifications, experience, education, licenses, specialty, and training.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "No explicit YoE; role is Research Assistant with bachelor’s required and no experience minimum stated. Likely entry-level / will train, but unsure because “independently” could imply some prior lab experience."
+  },
+  {
+    "job_id": "17944802",
+    "title": "Client Advisor - The Landmark, NYC",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Professional Experience : Minimum 3 Years",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Minimum 3 years maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18477280",
+    "title": "Rehabilitation Aide - Health and Wellness",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Minimum of 1 year patient care experience preferred.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is an aide with only a preferred 1 year; no explicit minimum experience. Maps to entry/0–2 years."
+  },
+  {
+    "job_id": "15462778",
+    "title": "DoD SkillBridge: Warehouse Manager",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of three years of experience in warehouse distribution required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also requires Minimum of one year of experience overseeing a workforce; overall minimums align with 3–5 years early-career band."
+  },
+  {
+    "job_id": "17587773",
+    "title": "Real Time Social Creative Designer",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5-7 years of experience in graphic design, preferably within financial services or a fast-paced corporate environment.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 5–7 years maps to mid-career (label 3)."
+  },
+  {
+    "job_id": "18234499",
+    "title": "EY-Parthenon - Strategy and Execution - Deal Management - Financial Services - Insurance - Director",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A bachelor's degree in Business, Accounting, Finance, Engineering, Computer Science, or Analytics and 5 years of related work experience; or a graduate degree and approximately 3 years of related w…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Director role with explicit minimum 5 years (and ~3 years with grad degree). Mapped to mid-career band (6–15) due to director seniority and deal management leadership expectations; however, the explicit 5-year minimum is on the boundary with early-career."
+  },
+  {
+    "job_id": "17288794",
+    "title": "Clinical Program Manager- Pulmonary",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5 years directly related experience (some supervisory preferred)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 5 years maps to early-career band (3–5 years)."
+  },
+  {
+    "job_id": "18819641",
+    "title": "Field Service/Maintenance Support Technician- Raritan, New Jersey",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5 years of progressive experience repairing or servicing mechanical/system hardware and software, or networking/wireless networking",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also includes a preferred requirement of 8+ years, but primary requirements state 5 years (fits label 2). Ambiguity between required vs preferred depth."
+  },
+  {
+    "job_id": "18727112",
+    "title": "Software Engineer, Docs AI, Workspace",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2 years of experience with software development in one or more programming languages, or 1 year of experience with an advanced degree.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD is explicitly asking for 2 years (or 1 year with advanced degree), which maps to early-career (label 2)."
+  },
+  {
+    "job_id": "18820779",
+    "title": "Materials Handler",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "We offer 4 weeks of on-the-job training.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role is an onsite Materials Handler with explicit on-the-job training and no stated years of experience; required qualifications do not specify a minimum YoE."
+  },
+  {
+    "job_id": "18709645",
+    "title": "Analyst, Strategic Initiatives Data and Business",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Two plus (2+) years of experience in business analysis, data analytics, consulting, or related roles",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum is 2+ years, which maps to the 0–2/entry band (label 1)."
+  },
+  {
+    "job_id": "8112178",
+    "title": "Senior Home Lending Advisor - Flushing, NY - Skyview Branch",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum three years of mortgage lending and proven sales experience in retail banking",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires minimum three years of mortgage lending/sales, which maps to the 3–5 years (label 2) band."
+  },
+  {
+    "job_id": "18515626",
+    "title": "General Liability Claims Examiner",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Five (5) years of General Liability claims management experience or equivalent combination of education and experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18726711",
+    "title": "Coordinator, CBS Sports Marketing Operations",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 2 years of relevant marketing experience (strong internships will be considered)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 2 years, which maps to the 0–2/entry band (label 1)."
+  },
+  {
+    "job_id": "18414466",
+    "title": "Oracle WMS Lead",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 5 years of experience in Oracle WMS, with minimum 3 years on Oracle Cloud WMS (WMS Cloud / Oracle Logistics Cloud).",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit minimums of 5 years and leading implementations; maps to mid-career (6–15) rather than early-career."
+  },
+  {
+    "job_id": "17665033",
+    "title": "Independent Agency Lead",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "12+ years of business development, marketing, brand advertising, agency, media sales and/or online advertising experience leading businesses or accounts.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly states 12+ years, which maps to label 4 (>15) only if strictly; however 12+ is mid-to-senior. Given label mapping: 3=6–15 years, 4=>15. Since it’s 12+ (could be 12–20), best fit is label 3, but boundary is uncertain. Set label 3? Actually label 3 covers 6–15; 12+ overlaps. Choose label 3 with unsure=true."
+  },
+  {
+    "job_id": "18505357",
+    "title": "Relationship Manager Business Banking Sr",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 10 years of banking experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also requires Minimum 8 years of commercial lending and Minimum 5 years of credit experience; overall clearly senior (10+ years)."
+  },
+  {
+    "job_id": "17533660",
+    "title": "Registered Nurse- Internal Medicine - Mount Sinai Doctors Medical Group - Full Time - Days",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience required; RN role with general responsibilities and qualifications. Conservative default for RN postings is entry/early-career (label 1), but unsure because prior experience/credentials are referenced without a time requirement."
+  },
+  {
+    "job_id": "13946915",
+    "title": "CEO GLOBAL PRESIDENTIAL PROGRAM - SUMMER INTERNSHIP, MARKETING (UNDERGRADUATE)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The Presidential Associate (PA) Summer Internship Program is part of the larger CEO Global Presidential Program.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Undergraduate summer internship; explicitly early-career/internship after junior year."
+  },
+  {
+    "job_id": "18553139",
+    "title": "Associate, CVS Health Ventures Market Development",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of professional experience (internships excluded)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“5+ years” maps to mid-career (6–15) bucket per instructions; closest label is 3."
+  },
+  {
+    "job_id": "17118929",
+    "title": "Civil or Environmental Engineering Internship - Water (Summer 2026)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Interns are an integral part of our teams, working to solve some of the world's most complex challenges.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Internship; explicitly for a college student in progress toward a bachelor's degree (no experience required / will train)."
+  },
+  {
+    "job_id": "11928142",
+    "title": "Prosthetic and Orthotic Lab Fabrication Coordinator & Tech - Full Time",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 5 years of fabrication experience in prosthetics & orthotics or a related field.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 5+ years fabrication experience; maps to early-career band (3–5 years) at the boundary."
+  },
+  {
+    "job_id": "17587391",
+    "title": "Dietitian Nutritionist I",
+    "label": 1,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Dietitian Nutritionist I",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated; title includes “I” which typically maps to entry/early-career. Posting also emphasizes credentials/education rather than experience."
+  },
+  {
+    "job_id": "18101828",
+    "title": "AI Application Architect",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "7-12+ years total experience in software engineering, data engineering, machine learning, or cloud architecture.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 7–12+ years maps to mid-career (6–15)."
+  },
+  {
+    "job_id": "16094694",
+    "title": "Data and AI Project Manager (AI & Data - Public Sector)",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum FIVE (5) years of experience delivering technical solutions and programs to public sector organizations.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum is 5 years, which maps to the 3–5 early-career band (label 2)."
+  },
+  {
+    "job_id": "18337173",
+    "title": "Droga5 Copywriter",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience or seniority level in the posting. Copywriter role with responsibilities like generating ideas and learning; likely early-career/entry-level, but uncertain without stated requirements."
+  },
+  {
+    "job_id": "18539722",
+    "title": "LPN - Nurse",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Paid training and opportunities to advance",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Posting emphasizes paid training/onboarding and does not state any years of experience; LPN role typically aligns with entry-level/no explicit YoE requirement."
+  },
+  {
+    "job_id": "18481556",
+    "title": "Medical Administrative Assistant (Mandarin or Cantonese Bilingual Required) - Surgery",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Associates Degree or High School Diploma/GED plus two years of related experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also states \"+ 3 years of related experience\"; both point to early-career (3–5 YoE band)."
+  },
+  {
+    "job_id": "18615908",
+    "title": "Security Officer Hospital",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Security Experience - 6+ Months",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is an entry-level security officer posting; only 6+ months security experience and training/certification after offer."
+  },
+  {
+    "job_id": "18736705",
+    "title": "Organization Design Manager",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum six (6) years relevant experience in professional consulting or industry role",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also states Minimum three (3) years in organization design/job architecture and additional related experience, but the explicit 6+ years maps clearly to mid-career (label 3)."
+  },
+  {
+    "job_id": "18867195",
+    "title": "Registered Nurse - Emergency Department - P/T with Benefits Evening",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Must have six (6) or more months of relevant nursing experience OR must be an active participant with Hackensack Meridian Health's Nurse Residency Program.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "RN ED part-time role; requirement is only 6+ months or participation in nurse residency (fresh/early-career)."
+  },
+  {
+    "job_id": "18433471",
+    "title": "Staff Engineer",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum four years of relevant engineering experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "“Staff Engineer” plus “Minimum four years” is ambiguous (4 years maps to label 2, but Staff typically implies mid-level). Chose 3 due to title seniority and complex leadership/mentoring; unsure because the explicit minimum is only 4 years."
+  },
+  {
+    "job_id": "18710413",
+    "title": "Compliance Business Oversight Manager",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 7+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18402546",
+    "title": "Corporations Magazines Editorial Content writer",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2-4 years of experience in editorial writing, content production, or communications.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated experience range 2–4 years maps best to early career (label 2)."
+  },
+  {
+    "job_id": "17042507",
+    "title": "Golf Course Greenskeeper (Mount Tabor)",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience. Role is an operational groundskeeping position; only says 'Prior experience is highly desired' and pay depends on experience, so defaulting to entry/early-career."
+  },
+  {
+    "job_id": "16758029",
+    "title": "shift supervisor - Store# 07897, 67TH & QUEENS BLVD.",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Six (6) months of experience in a position that required constant interacting with and fulfilling the requests of customers",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD specifies 6 months customer interaction and 6 months delegating/coordination. This is closer to 0–2 years than 3–5, but the supervisor/lead nature plus 6 months minimum suggests early-career; boundary is somewhat ambiguous."
+  },
+  {
+    "job_id": "16965938",
+    "title": "Sr. Distinguished Software Engineer (Anti-Money Laundering)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 9 years of experience in Software Engineering and solution architecture",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Basic Qualifications require 9+ years in multiple areas (software architecture, cloud, data architecture) and the title is Sr Distinguished Engineer, indicating senior depth."
+  },
+  {
+    "job_id": "18727114",
+    "title": "Developer Relations Engineer",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ Bachelor's degree in Marketing, Business Administration, Computer Science or a related field and 3 years of experience in the job offered or in a Developer Relations Engineer-related occupation.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly require 3 years (or 1 year with a Master’s). This maps to early career (3–5 years)."
+  },
+  {
+    "job_id": "18434787",
+    "title": "Branch Manager Franklin Square, Vice President",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "6-10 years of relevant experience required",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 6–10 years, which maps to mid-career (label 3)."
+  },
+  {
+    "job_id": "17598134",
+    "title": "Website Product Owner",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of hands-on web marketing and/or digital delivery experience in a matrixed environment",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18401425",
+    "title": "Industrial Laundry Maintenance Mechanic w/ Boilers License",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3-5 years' maintenance experience; Boiler Licensed is Required",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 3–5 years maintenance experience, which maps to early-career (label 2)."
+  },
+  {
+    "job_id": "16316981",
+    "title": "AI Engineering Manager/Solutions Architect - SFL Scientific",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "6+ years of experience working in data engineering, data science, software engineering, MLOps specializing in AI and Machine Learning deployment",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple required mins are 6+ years (data engineering/science/MLOps; cloud solutions; programming) plus 4+ years managing teams—clearly mid-career (6–15)."
+  },
+  {
+    "job_id": "18477200",
+    "title": "Sourcing Category Manager, Indirect Procurement",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8+ years of experience in procurement, with strong experience in SG&A categories, including required experience in Travel & Meeting (T&ME).",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "8+ years maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18773230",
+    "title": "Power & Utilities EAM Functional Product Designer",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 5 years' experience working with Utilities clients or experience working within the Utilities sector",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also requires 5+ years in Asset Management/Work Management and 3+ years technical product design; overall maps to mid-career (6–15). Multiple overlapping mins make exact boundary a bit ambiguous."
+  },
+  {
+    "job_id": "18052101",
+    "title": "AI Community Program Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of program, project management, and/or community management experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications specify 5+ years, which maps to early-career (3–5) boundary; choose label 2."
+  },
+  {
+    "job_id": "18512799",
+    "title": "shift supervisor - Store# 17424, 1 COLUMBUS SQUARE",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Six (6) months of experience in a position that required constant interacting with and fulfilling the requests of customers",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD specifies 6 months customer interaction and 6 months delegating/coordinating. That’s ~0.5–1 year, but the role is a Shift Supervisor; mapping to YoE bands is ambiguous, so I’m choosing early-career (3–5) as best fit while marking unsure."
+  },
+  {
+    "job_id": "18648128",
+    "title": "shift supervisor - Store# 54304, SHOPS AT GRAND AVE",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Six (6) months of experience in a position that required constant interacting with and fulfilling the requests of customers",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD specifies 6 months customer interaction and 6 months delegating/coordinating; this is closer to early-career than entry, but still under 1 year. Mapped conservatively to 2 (3–5 band) due to supervisory framing; could be 1 if strictly using months."
+  },
+  {
+    "job_id": "18791739",
+    "title": "Account Administrator-Revenue Cycle",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Approximately 2 years of medical billing experience",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "17855633",
+    "title": "Per Diem Cardiovascular Technician-MSM",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2 years of experience in cath or ep lab.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum is 2 years, which maps to the 0–2 band (label 1) but the role is not entry-level; however the stated requirement is exactly 2 years, so label 2 is chosen as best fit for early-career technician expectations."
+  },
+  {
+    "job_id": "18553515",
+    "title": "Go-to-Market Lead, AI Infrastructure, TPU/GPU, Financial Services, Google Cloud",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "12 years of experience in enterprise technology/cloud sales, partner management and business development and strategy.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications explicitly require 12 years, which maps to label 4 (>15) only if strict; however 12 years is typically mid-career (label 3). Boundary: label mapping says 3=6–15, so choose 3. (Correction)"
+  },
+  {
+    "job_id": "16982876",
+    "title": "Project Finance Assistant Intern - Summer 2026",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "This opportunity entails, while under close supervision, assist assigned department(s) and/or project(s) by performing basic and routine administrative support work…",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Intern/co-op role with close supervision and basic routine administrative support; no experience requirement beyond being enrolled in an undergraduate/graduate program."
+  },
+  {
+    "job_id": "18552791",
+    "title": "AI Finance - Senior Manager - Tech Consulting - Location Open",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of seven years of progressive experience in Financial Planning & Analysis (FP&A)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 7+ years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "17514982",
+    "title": "Workday Financials Senior Consultant",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ 5+ years of relevant consulting or industry experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also asks for 2+ years leading workstreams/small teams and at least one full life cycle Workday implementation, consistent with mid-career (6–15) rather than early-career."
+  },
+  {
+    "job_id": "17797352",
+    "title": "Dental Assistant-IV Sedation",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 2 years of related experience in dental assisting, particularly with IV sedation.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 2 years maps to early-career band (label 2)."
+  },
+  {
+    "job_id": "18617015",
+    "title": "Principal Scientist, Computational Image Analysis",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "PhD with 6+ years of relevant work experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Principal Scientist with explicit 6+ years requirement maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18235076",
+    "title": "Principal Scientist (Director) - Regulatory Affairs-CMC",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least ten years of relevant experience including biologics or vaccine Regulatory CMC, or development; manufacturing, testing, or licensure of biological products; or closely related fields.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Despite the title being Principal/Director, the JD explicitly requires “At least ten years,” which maps to the 6–15 mid-career band (label 3). However, the role also repeatedly emphasizes director-level leadership and principal scientist responsibilities; still, the explicit minimum is 10 years, so label 3 would be the strict mapping. Marking label 4 would be inconsistent with the provided YoE rules; therefore label should be 3. (Correction applied in output.)"
+  },
+  {
+    "job_id": "17961332",
+    "title": "ServiceNow Deployment- Senior Associate",
+    "label": 3,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "ServiceNow Deployment- Senior Associate",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Title is 'Senior Associate' and description mentions 'extensive-level abilities' and manager responsibilities, suggesting mid-career (6–15) rather than entry."
+  },
+  {
+    "job_id": "18646515",
+    "title": "Lead Software Development Engineer, Playback Team",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of developing large-scale, multi-tiered distributed software systems using distributed programming experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly 5+ years; despite “Lead” title, the stated minimum maps best to mid-career (6–15) per rubric."
+  },
+  {
+    "job_id": "18579968",
+    "title": "Phlebotomist",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Phlebotomy certification or completed training program or 3 months or more experience as a phlebotomist",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualifications allow 3+ months experience or completed training/certification; preferred is 1+ year, which still fits entry/early career."
+  },
+  {
+    "job_id": "18338197",
+    "title": "Strategic Resilience Initiative (SRI) Recruiter, Executive Director",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of direct experience with full life cycle front office/investor recruiting in a fast-paced corporate environment or search firm.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10 years; however label mapping: 10 years falls in 6–15 (label 3). Title is Executive Director but no explicit 15+ years. Chosen label 4 only if interpreting Executive Director as seniority beyond 15; but explicit YoE is 10, so this should likely be label 3. Marking unsure would be appropriate, but unsure=false per schema—adjusting: set label to 3."
+  },
+  {
+    "job_id": "18310589",
+    "title": "B2B Marketing Senior Strategist",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of experience in BB2B marketing, integrated campaigns, or demand generation (enterprise or technology background preferred).",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also lists 3+ years each for content strategy and marketing automation/CRM/analytics, but the 7+ years requirement is the clearest mapping to mid-career (6–15)."
+  },
+  {
+    "job_id": "17447470",
+    "title": "E-Billing Coordinator",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years e-billing experience (e.g. Serengeti, Collaborati, Legal Precision, eBillingHub)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18512637",
+    "title": "Front End Service Team Supervisor",
+    "label": 2,
+    "decided_by": "management_scope",
+    "evidence_snippet": "Front End Service Team Supervisor",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "Supervisor title implies some experience, but the posting provides no explicit years or requirements; label chosen as early-career/3–5 YoE by conservative mapping for first-line supervision."
+  },
+  {
+    "job_id": "18383109",
+    "title": "Director, Packaging Distribution, Components and Systems Centers of Excellence",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor of Science (BS) in packaging/ mechanical/ chemical/ biochemical engineering, pharmaceutical science or chemistry or related fields with fifteen (15) years relevant experience pharmaceutica…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience explicitly includes 15 years (BS track), 12 years (MS track), or 8 years (PhD track). As a Director role, the strongest explicit minimum is 15+ years, mapping to label 4."
+  },
+  {
+    "job_id": "16211972",
+    "title": "Clinical Nurse-GI-Stepdown-10E-Mount Sinai Hospital-FT/Nights",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Relevant clinical competence in area of nursing practice assigned; new graduates must possess current knowledge of the nursing process and its application",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Posting explicitly references new graduates and does not state a minimum years of experience."
+  },
+  {
+    "job_id": "16687633",
+    "title": "Merrill Experienced Financial Advisor",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "If you have at least 5+ years of experience as a Financial Advisor with a transportable practice",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "“Experienced” role explicitly requires 5+ years as a Financial Advisor; maps to early-career band (label 2)."
+  },
+  {
+    "job_id": "16135156",
+    "title": "Trading Services Manager III",
+    "label": 3,
+    "decided_by": "management_scope",
+    "evidence_snippet": "Trading Services Manager III",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "“Manager III” implies mid-level seniority; no explicit years of experience stated. Responsibilities suggest experienced ownership (controls, reconciliation, STP), but YoE not directly specified."
+  },
+  {
+    "job_id": "18819490",
+    "title": "Program Manager, Content Supply Chain",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 2 years of experience managing end-to-end technology programs or projects, including design, development, testing, launch, and post-launch support",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 2 years, which maps to the 0–2/entry band per rules (label 1)."
+  },
+  {
+    "job_id": "16226756",
+    "title": "Medical Assistant/Relations Associate-Primary Care - Mount Sinai Doctors Medical Group - Full Time - Days",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Certification as a Medical Assistant or two (2) years relevant work experience preferred.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "YoE is only stated as “preferred” (2 years). No explicit “will train” or entry-level language, so mapped to early-career (3–5) conservatively, but this could also fit label 1 depending on interpretation."
+  },
+  {
+    "job_id": "18368715",
+    "title": "IT Applications Analyst III-Epic Radiant",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 3 years of IT experience preferably in healthcare or related field OR 2 Years of IT experience and 2 years of clinical experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly for Analyst III with a stated minimum of 3 years IT (or equivalent via IT+clinical), which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18538116",
+    "title": "Medical Supply Delivery and Installation Technician",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated; role reads like standard technician/delivery work with training/compliance and “prior delivery driving experience a plus,” suggesting entry-level/early-career."
+  },
+  {
+    "job_id": "17945363",
+    "title": "2027 Markets Summer Analyst Program - Research",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Expected graduation date of December 2027 - June 2028 from Bachelor's or Master's program",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Summer Analyst program for students (graduation 2027/2028) implies entry-level/no prior YoE."
+  },
+  {
+    "job_id": "16514396",
+    "title": "CATERING SUPERVISOR-PRUDENTIAL CENTER",
+    "label": 2,
+    "decided_by": "management_scope",
+    "evidence_snippet": "Monitors the food service operation to ensure production of top quality products and service.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "No explicit YoE. 'Supervisor' implies some early-career leadership/experience (likely 3–5 years), but scope/team size not stated."
+  },
+  {
+    "job_id": "18538130",
+    "title": "Associate Principal Scientist, Clinical Research (Animal Health)",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Four years in clinical research or similar research role.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Title suggests seniority, but explicit requirement is only 4 years (which maps to label 2). Chose 3 due to “Associate Principal Scientist” and overall study team leader responsibilities; boundary/uncertain."
+  },
+  {
+    "job_id": "18010105",
+    "title": "Sr. Financial Analyst, Amazon Ads, Ads Trust",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "- 3+ years of tax, finance or a related analytical field experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple requirements specify 3+ years (tax/finance, KPI analysis, process improvements). Despite “Sr.” title, the explicit minimums place it in the 3–5 years band."
+  },
+  {
+    "job_id": "18117946",
+    "title": "AWS Software Engineer III - Python/Data Pipeline",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification on software engineering concepts and 3+ years applied experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“Software Engineer III” plus explicit “3+ years applied experience” maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "17822565",
+    "title": "Spa Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "High school diploma or GED; 2 years experience in the spa, guest services, or related professional area.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "2 years experience maps to the 0–2 years band (label 1) by the rubric, but the role is explicitly management/supervisory (Spa Manager) which often implies more; however the only explicit YoE is 2 years, so label 2 is chosen as best fit for early-career management."
+  },
+  {
+    "job_id": "12417627",
+    "title": "Dental Assistant-Sterile Processing (Cert)",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2+ years of related experience in a dental setting.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also mentions '1-2 years of related experience including oral surgery experience with IV sedation/general anesthesia,' but overall minimum is 2+ years, mapping to early career (3–5 band)."
+  },
+  {
+    "job_id": "15266756",
+    "title": "Polysomnographic Technician - Per Diem",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A minimum of six months of experience as a sleep trainee with documented proficiency in all required competencies OR Holds a Certified Polysomnographic Technician (CPSGT) credential or equivalent.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum experience is 6 months (maps to entry/1), but the role is a licensed technician with CPSGT; overall best fit is early-career (2) though boundary is ambiguous."
+  },
+  {
+    "job_id": "17767987",
+    "title": "Installation Training Specialist - Monogram Center of Excellence",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of three years of experience in appliance service, installation, or technical training.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18660525",
+    "title": "Senior Manager Client Relationship Executive (CRE) - Financial Services",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of professional experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years and repeats 10+ years in preferred qualifications; this maps to >15? Not explicitly, but senior manager + 10+ strongly suggests senior/more-than-mid. Chosen label 4 because title is Senior Manager and experience is at least 10+ with no upper bound; could plausibly be label 3 if strictly mapping 6–15."
+  },
+  {
+    "job_id": "18582545",
+    "title": "Patient Care Associate-MSH-Medicine Boarders - Part Time -Evenings",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Three to nine months of healthcare experience preferred.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Patient Care Associate role with only 3–9 months healthcare experience preferred; no multi-year experience requirement."
+  },
+  {
+    "job_id": "18792442",
+    "title": "Principal Customer Engagement Specialist - Digital Technologies",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelors Degree with 7+ years of relevant experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also states OR an advanced degree with 5+ years; nice-to-haves mention 4 years customer success. Primary must-have implies 7+ years → mid-career (6–15)."
+  },
+  {
+    "job_id": "18773188",
+    "title": "Sales Compensation Design Lead, Amazon Ads, Sales Incentive Compensation",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5+ Years Experience in Sales Compensation, Sales Operations, or equivalent",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also says Preferred: 7+ years, which could push toward label 3; primary minimum is 5+ so best fit is early/mid boundary."
+  },
+  {
+    "job_id": "17203301",
+    "title": "Intern - Economics (RFCA)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "In this full-time internship (40 hours per week, with hourly compensation), you'll work with large-scale datasets to analyze causal relationships and inform strategic business decisions…",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Internship role; Basic Qualifications specify PhD students enrolled at least the third year and not on the job market, indicating early-career/no prior work experience requirement."
+  },
+  {
+    "job_id": "18480285",
+    "title": "Registered Nurse - EPIC Go-Live Contracts - May 2026 - FlexStaff",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 1-2 years of professional nursing experience in the related specialty.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "15521846",
+    "title": "Investment Management Governance Office Business Analyst",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 3 years within or related to financial services",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also states \"3+ years in a role requiring complex problem solving\"; overall maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18512902",
+    "title": "Managing Director, Liquidity and Account Solutions Global Business Manager",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years in finance, business management, strategy, or COO roles within financial services, with direct accountability for business financials and outcomes.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Managing Director + explicit 10+ years strongly indicates senior/more-than-mid career; maps to label 4 per rubric."
+  },
+  {
+    "job_id": "18848107",
+    "title": "Import Export Clerk",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3-7 years of experience in Import/Export operations.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Experience requirement explicitly given as 3–7 years, which maps primarily to label 2 (3–5) with some overlap into label 3; best fit is early/mid boundary but closer to 2."
+  },
+  {
+    "job_id": "18867939",
+    "title": "Editor, Dial Delights - (Hybrid)",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A minimum of 5 years of editorial experience and a keen interest in romance, and other categories poised for success in the trade paperback original format.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires a minimum of 5 years editorial experience, which maps to the 3–5 years (label 2) band."
+  },
+  {
+    "job_id": "18849367",
+    "title": "shift supervisor - Store# 07235, JERICHO-495 & NORTH BROADWAY",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Six (6) months of experience in a position that required constant interacting with and fulfilling the requests of customers",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD specifies 6 months customer interaction and 6 months delegating/coordinating; this is closer to ~0–1 year but the role is a shift supervisor, so mapped to early-career (3–5 band) conservatively; unsure due to mismatch between months-based requirements and YoE buckets."
+  },
+  {
+    "job_id": "18349912",
+    "title": "Senior Associate, Product Manager - Rewards",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 1 year of product management experience or at least 1 year of experience in product design, agile delivery, business analysis, data science, or software engineering",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Title says Senior Associate, but the only explicit experience minimum is 1+ year (entry/early). Preferred adds 1+ years in several areas. Mapped to early-career (3–5) due to 'Senior Associate' signal, but explicit YoE is too low/ambiguous."
+  },
+  {
+    "job_id": "18832000",
+    "title": "Director Clinical Development Scientist, Early Clinical Development",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "MD/BS/BA/BSN and 8+; MS/MA/MSN and 7+; PhD/PharmD and 5+ years of experience in clinical development.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience requirements (5+ with PhD/PharmD; 7+; 8+) map to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18349856",
+    "title": "Lead II, Machine Learning Engineer",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of hands-on experience in machine learning engineering, model development, and deployment with demonstrated leadership experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly 5+ years; maps to early-career band (3–5) per rubric, with 5 included."
+  },
+  {
+    "job_id": "16879235",
+    "title": "barista - Store# 54804, GEORGETOWNE SHOPPING CENTER",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role explicitly states no previous experience required; barista is entry-level."
+  },
+  {
+    "job_id": "18252939",
+    "title": "HR Technology Business Intelligence (BI) Developer - REMOTE",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Bachelor's degree required; preference for degrees in technology, data, analytics, computer science, or related fields with 5+ years of experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated preference for 5+ years maps to early-career (3–5 band includes 5). No other YoE ranges provided."
+  },
+  {
+    "job_id": "18649386",
+    "title": "Coordinator, Center of Excellence",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "NBCU Ad Sales Center of Excellence is looking for a Coordinator who will support the SVP and the team overall on special projects, scheduling and administrative responsibilities.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "Coordinator/admin role with no explicit years; signals early-career/entry-level support. 'Significant experience in PowerPoint, Excel, and Office 365' suggests skill depth but not YoE."
+  },
+  {
+    "job_id": "18553156",
+    "title": "Wound Care Utilization Management RN",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Requires a HS diploma or equivalent and a minimum of 5 years of experience in a variety of health care settings;",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 5 years maps to early-career band (3–5 years). Preferred 1 year UM doesn’t change the minimum requirement."
+  },
+  {
+    "job_id": "18848352",
+    "title": "J.P. Morgan Wealth Management - Vice President - Divisional Strategy & Support Associate - Paramus, New Jersey",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of proven experience in managing projects in an investment-focused environment or related industry.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“5+ years” maps to mid-career (6–15) per rubric; although 5 could be early-career, the “5+” minimum best fits label 3."
+  },
+  {
+    "job_id": "18820685",
+    "title": "barista - Store# 07425, LONG BEACH-PARK AVE",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role explicitly states no previous experience required; barista/store position with training implied."
+  },
+  {
+    "job_id": "18479330",
+    "title": "Automotive Technician A",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years of strong automotive mechanical diagnosis, problem-solving and repair experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“Technician A” implies seniority, but the JD explicitly requires 3+ years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18082055",
+    "title": "Part-Time Universal Banker (20 Hours) Inwood Branch",
+    "label": 1,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "1-3 years of relevant experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requests 1–3 years, which maps to 0–2/entry signals; closest class is label 1."
+  },
+  {
+    "job_id": "17286765",
+    "title": "Nuclear Medicine Technologist - Per Diem",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of one year of Nuclear Medicine experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience explicitly stated as 1 year; maps to early-career (3–5) bucket per rubric, though this is closer to entry—kept conservative due to explicit 1-year requirement."
+  },
+  {
+    "job_id": "18081722",
+    "title": "GE6603- Elmsford Oil Change Technician",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "When you become part of the Valvoline team, you will learn:",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Technician role emphasizes learning/training and progression; no explicit years required, strong fresh/entry signal."
+  },
+  {
+    "job_id": "16461200",
+    "title": "Principal Solutions Architect, GFS Solutions Architecture",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "15+ years of specific technology domain areas (e.g. software development, cloud computing, systems engineering, infrastructure, security, networking, data & analytics) experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Principal Solutions Architect with explicit 15+ years requirement maps to label 4 (>15 years)."
+  },
+  {
+    "job_id": "18727546",
+    "title": "Treasury Operations Analyst",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 2 years of experience in accounting or finance related roles.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly states at least 2 years, which maps to the 0–2/entry band (label 1)."
+  },
+  {
+    "job_id": "18498797",
+    "title": "Senior Finance Analyst, Hub Delivery Finance",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years of finance or a related analytical field experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly for 3+ years; despite 'Senior' in title, the stated minimum maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "17543240",
+    "title": "Retirement Programs & Benefits Operations, Assistant Vice President - TERM (15 months)",
+    "label": 3,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Retirement Programs & Benefits Operations, Assistant Vice President - TERM (15 months)",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Assistant Vice President and consultant/technical expert for complex retirement benefits projects suggest mid-career (6–15) rather than entry-level."
+  },
+  {
+    "job_id": "15075173",
+    "title": "Relationship Manager Entertainment",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 2 years of lending experience required.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also requires Minimum 2 years of credit experience. No explicit higher YoE; relationship manager title suggests more, but stated minimums map to early-career (label 2)."
+  },
+  {
+    "job_id": "12458683",
+    "title": "EY-Parthenon - Strategy and Execution - Supply Chain - Director - Multiple Locations",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A bachelor's degree in Business, Accounting, Finance, Supply Chain, Operations, Engineering, Analytics, or related field and 5 years of related work experience; or a graduate degree and approximate…",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD specifies 5 years (which maps to label 2), but the role is explicitly a Director with significant management consulting and leading/managing in complex environments—likely >15 years in practice. Boundary conflict between stated minimum (5) and senior title/expectations."
+  },
+  {
+    "job_id": "17681850",
+    "title": "Patient Care Technician - Satellite ED - P/T with Benefits Evening",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "At least one (1) year PCT or CNA experience in a hospital setting strongly preferred or eligible for the HMH PCT apprentice program.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD strongly prefers 1+ year PCT/CNA experience; this maps to early-career (3–5 band) only by approximation since 1 year is closer to entry. Also includes apprenticeship pathway, adding ambiguity."
+  },
+  {
+    "job_id": "17373423",
+    "title": "LEAD SALES ASSOCIATE-FT in BROOKLYN, NY S19216",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "High school diploma or equivalent and six months of supervisory experience (or related experience/training) preferred.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Lead associate role with only ~6 months supervisory experience preferred; no multi-year requirement."
+  },
+  {
+    "job_id": "17044107",
+    "title": "Wealth Management , Chief Investment Officer Portfolio Analytics Team, Vice President",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 3 years' experience on an investment team in an asset management firm",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires minimum 3 years experience, which maps to early-career (3–5 years). Title includes Vice President but YoE is driven by the stated minimum."
+  },
+  {
+    "job_id": "18281443",
+    "title": "Senior Field Service Technician",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2 to 5 years of technical work experience including industrial or commercial process water experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“Senior” title, but explicit requirement is 2–5 years, which maps to early career (label 2)."
+  },
+  {
+    "job_id": "18700105",
+    "title": "Personalization Product Manager - Vice President",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of experience or equivalent expertise in product management or a relevant domain area",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“5+ years” maps most cleanly to mid-career (6–15) per the provided buckets; although it could include 5, the “+” and VP framing suggest beyond early-career."
+  },
+  {
+    "job_id": "18661074",
+    "title": "Software Engineer, iOS",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years of programming experience in a relevant language OR a PhD + 9 months programming experience in a relevant language",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly states 2+ years programming experience, which maps to early-career (label 2)."
+  },
+  {
+    "job_id": "17614346",
+    "title": "Sr. Banking Partner Solutions Architect, AMER Partner Industry & Solutions",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of design, implementation, or consulting in applications and infrastructures experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit minimums: 10+ years overall plus 8+ years banking cloud/AI and 10+ years domain areas; clearly beyond 15+ is not explicitly stated, but seniority is strongly indicated by repeated 10+ and 'Senior' title—still best mapped to >15 due to depth/stack."
+  },
+  {
+    "job_id": "18648055",
+    "title": "IT Manager/Director",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 5 years of experience in IT management or leadership roles.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum is 5 years, which maps to the 3–5 early-career band (label 2)."
+  },
+  {
+    "job_id": "16984912",
+    "title": "Banking & Capital Markets Tax Senior Manager",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum Years of Experience : 5 year(s)",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD explicitly requires 5 years, which maps to label 2 (3–5). However the title is “Senior Manager” and duties describe team leadership and complex advisory work, making it plausibly mid-career; chose 3 as best overall fit but boundary is uncertain."
+  },
+  {
+    "job_id": "18338135",
+    "title": "Program Manager I, SOX Controls Governance, CISO",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "1 year of program management experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also says “Program Manager I” and “Early” signals; explicit minimum is 1 year, which maps to label 1 by the rubric, but “Program Manager I” at Google often implies early-career rather than entry. Chose label 2 as best fit; unsure due to rubric boundary."
+  },
+  {
+    "job_id": "13844530",
+    "title": "Investment Consultant",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 5 years of financial experience preferably in Investment Management",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also requires 2 years HNW/UHNW and 2+ years client presentations; overall minimum maps to early-career (3–5) boundary but explicitly says minimum 5 years, so label 2."
+  },
+  {
+    "job_id": "18791941",
+    "title": "Head of Digital Assets Platform Engineering Director",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "15+ years of experience in the software industry, including leadership roles (e.g., Director, Head of Engineering) managing globally distributed teams.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 15+ years, which maps to label 4 (>15 years)."
+  },
+  {
+    "job_id": "18773445",
+    "title": "Sr. Product Manager",
+    "label": 3,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Sr. Product Manager",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Title is senior, but body says “Product Manager II” and “significant experience,” which could span multiple bands; best fit is mid-career (6–15) but uncertain."
+  },
+  {
+    "job_id": "18538131",
+    "title": "Sr. Specialist, Audit",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A minimum of 3 years of work experience in internal audit, public accounting, or general accounting.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 3 years maps to early-career (3–5 years). Title is senior, but explicit experience requirement is the strongest signal."
+  },
+  {
+    "job_id": "18629420",
+    "title": "Equipment & Automation Procurement Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 3 years in strategic sourcing, contract negotiation, and risk mitigation, preferably on capital investment projects.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires minimum 3 years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18337520",
+    "title": "barista - Store# 07456, 125TH & LENOX",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Posting explicitly states no previous experience required; consistent with entry-level training."
+  },
+  {
+    "job_id": "18010152",
+    "title": "Civil Field Engineer",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A minimum of 1 year of construction industry engineering experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 1 year, which maps to entry/early-career (0–2 years). No other YoE requirement suggests mid/senior."
+  },
+  {
+    "job_id": "17915981",
+    "title": "Cafe Manager- Corporate Dining",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 3 years of caf operations experience; leadership experience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum explicitly states 3 years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "17729727",
+    "title": "Associate Partner, HR Transformation (Oracle)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 10 years of experience in HR transformation, consulting, or a related field, with at least 5 years in a leadership or partner role.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimums: 10+ years total and 5+ years leadership/partner. Maps to >15? Not directly, but Associate Partner/partner role plus 10+ suggests senior; choose label 4 due to partner-level depth and leadership requirement."
+  },
+  {
+    "job_id": "16772905",
+    "title": "Physician Assistant - Pediatric Thalassemia & Hemoglobinopathy Program",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "New grads may be considered.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD states “Approximately 2 years… highly desired” but also explicitly allows new grads and considers up to one year post-degree/internship with less than one year prior experience, mapping to entry/0–2 years."
+  },
+  {
+    "job_id": "17533488",
+    "title": "Mgr Vehicle Ops",
+    "label": 1,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "1-3 years' experience in Customer Service or Operations; Car Rental, Hospitality or Tourism experience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 1–3 years experience maps to entry/early-career (label 1)."
+  },
+  {
+    "job_id": "17147365",
+    "title": "Systems Engineer Lead/Cost Account Manager",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Bachelor s Degree in Systems, Electrical, Computer, Aerospace Engineering with 6-8 years experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also mentions Master s Degree in Engineering with 6 years experience and 5 years integration/test management, but the explicit 6–8 years maps cleanly to mid-career (label 3)."
+  },
+  {
+    "job_id": "16811520",
+    "title": "Technology Legal - Assistant General Counsel",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of five years post-admission legal practicing experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD explicitly requires 5+ years post-admission. That maps to label 2 (3–5) or 3 (6–15) depending on interpretation; since it says minimum of five, I chose 3 as best fit for an Assistant General Counsel level, but boundary is ambiguous."
+  },
+  {
+    "job_id": "18434698",
+    "title": "Relationship Banker - Brooklyn Central Market - Brooklyn, NY Area - Spanish Required",
+    "label": 2,
+    "decided_by": "education_substitute",
+    "evidence_snippet": "One year of demonstrated successful sales experience in a salary plus incentive environment with individual sales goals",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "No explicit YoE requirement, but “One year” sales experience and “Six months” cash handling suggest early-career (3–5 band) rather than entry. Title is not senior; role is client-facing. Unsure because experience is stated in months/1 year rather than a clear 3–5 years minimum."
+  },
+  {
+    "job_id": "18819507",
+    "title": "Project Scheduler",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 3+ years as a Project Scheduler.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum is 3+ years, which maps to early career (3–5 years band)."
+  },
+  {
+    "job_id": "18617144",
+    "title": "Accounting Manager/Supervisor",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 3 years of experience in accounting or financial management roles.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 3 years maps to early-career (3–5 years). Title suggests management but explicit YoE is the primary signal."
+  },
+  {
+    "job_id": "18318138",
+    "title": "Alliance Sales Executive, Associate Director - IBM Functional SE, IBM Consulting/Joint Services",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8-10+ years of quota carrying sales experience in professional services, solutions and technology",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum stated 8–10+ years maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18021527",
+    "title": "Associate General Counsel - Wealth Advisory Services  (Hybrid in Buffalo, NY or Wilmington, DE)",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 7 years of experience as an attorney or other relevant legal experience in trusts and estates including complex fiduciary administration and/or planning.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also states “This is a senior level position” and “Minimum of 5 years of work leadership experience,” reinforcing mid-to-senior YoE."
+  },
+  {
+    "job_id": "18348661",
+    "title": "Consultant - Securitization Capital Markets (Commercial Mortgage-Backed Securities Focus)",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years experience with banking, capital markets, mortgage-backed securities, etc.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 2+ years, which maps to early-career (label 2) rather than entry (label 1)."
+  },
+  {
+    "job_id": "17943369",
+    "title": "Investigative Reporter, Politics",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "A minimum of five years in journalism with a proven ability in reporting and writing required, preferably including experience in investigations.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience is explicitly stated as five years, which maps to the 3–5 years (label 2) band."
+  },
+  {
+    "job_id": "18349079",
+    "title": "Senior UX Researcher, Search",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "+ 6 years of experience of experience in an applied research setting (e.g., product or academic), or similar.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also includes “5 years… Director level and above” and “3 years… managing projects,” reinforcing mid-level depth (6–15)."
+  },
+  {
+    "job_id": "18727242",
+    "title": "Mergers & Acquisitions - Executive Administrative Assistant",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least five years of administrative experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is explicitly stated as 5 years, which maps to the 3–5 early-career band per instructions."
+  },
+  {
+    "job_id": "18222383",
+    "title": "IT Applications Analyst III",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 3 years of IT experience preferably in healthcare or related field OR 2 Years of IT experience and 2 years of clinical experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“Applications Analyst III” plus explicit minimums of 3 years IT (or 2 IT + 2 clinical) maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18582659",
+    "title": "Director, Clinical Research",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8-12 years of relevant experience and 7+ years of leadership / management experience, required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 8–12 years relevant experience plus 7+ years leadership; maps to >15? Actually 8–12 is mid-career (label 3). However title is Director and leadership suggests seniority; still YoE requirement is 8–12, so label should be 3. Adjusting: label 3."
+  },
+  {
+    "job_id": "17184909",
+    "title": "Culinary Supervisor, MetLife Stadium",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least two years' experience as a line cook, including supervisory experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum experience stated is 2 years, but role is supervisory; could plausibly map to early-career (2) vs entry (1) depending on how strictly we treat 'at least two years'."
+  },
+  {
+    "job_id": "18233984",
+    "title": "Principal Public Sector Sales Manager",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8 to 12 years of experience in public sector sales, government business development, workforce solutions, or grant funded commercialization.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Despite title saying Principal, the explicit YoE is 8–12 years, which maps to label 3. However, label 4 is chosen only if >15 years; conflict—so this should be label 3. Marking unsure due to mismatch between title and explicit range."
+  },
+  {
+    "job_id": "18234801",
+    "title": "Manager, Derivatives Product Management",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5 years of work experience in the investment banking or investment management industry preferably within a front office or risk management derivatives role.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum of 5 years maps to early-career band (3–5). Title says Manager but YoE is the clearest signal."
+  },
+  {
+    "job_id": "18773192",
+    "title": "Associate, Licensing Maintenance",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 2 years of related experience;",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Associate role with explicit minimum of 2 years maps to early-career band (label 2)."
+  },
+  {
+    "job_id": "17665913",
+    "title": "Sr Advanced R&D Engineer/Scientist",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 5-8 years of experience in data analysis or data science roles, within material science or engineering domain.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum experience is 5–8 years, which maps to mid-career (label 3). Title is Senior but YoE is explicitly given."
+  },
+  {
+    "job_id": "18791809",
+    "title": "Facilities Coordinator 4",
+    "label": 2,
+    "decided_by": "management_scope",
+    "evidence_snippet": "Support monitoring and coordination of a small team of multiskilled operatives.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "No explicit years of experience. Title includes '4' and duties mention coordinating/monitoring a small team and onsite contractors, suggesting early-career-to-mid. Chose label 2 (3–5 YoE) but uncertain due to lack of explicit YoE."
+  },
+  {
+    "job_id": "16082381",
+    "title": "Clinical Resource Nurse - Neonatal ICU (NICU) - F/T Nights",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 3 years of acute care nursing in pediatric hematology/oncology/BMT.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18737222",
+    "title": "Vendor Operations Management Consultant",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5 - 7 years of increasingly responsible health care operations experience;",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum requirement is explicitly 5–7 years, which maps to mid-career (label 3: 6–15). Since 5 is on the lower edge, but the range includes 6–7 and is not purely early-career, label 3 is the best fit."
+  },
+  {
+    "job_id": "18848540",
+    "title": "Retail Sales Supervisor",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "1+ year experience selling retail products or services",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Role is a supervisor with coaching/supervising others, but the only explicit YoE is 1+ year (maps to label 1). Supervisor duties suggest more, so I’m choosing label 2 with uncertainty."
+  },
+  {
+    "job_id": "18760228",
+    "title": "Health & Benefits Outsourcing Sales Lead",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of outsourcing and/or consulting sales experience - demonstrated ability to successfully lead and collaborate with other very senior thought leaders",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 10+ years maps to senior/more-than-15? Actually 10+ is mid-to-senior; per label rules: 6–15 years => 3. However title is Sales Lead and includes mentoring junior team members; still YoE is 10+ (within 6–15). Choose label 3."
+  },
+  {
+    "job_id": "18790541",
+    "title": "Senior Lead Software Engineer - API Marketplace",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification in software engineering concepts, with 5+ years of applied experience.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD says 5+ years but title is Senior Lead; 5+ could map to label 2 or 3, so chose 3 due to senior/lead framing."
+  },
+  {
+    "job_id": "17993102",
+    "title": "Area Executive Chef",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3+ years culinary experience in the Foodservice Industry (Corporate or Kitchen)",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also states \"Minimum Management Experience - 3 years\" and \"Minimum Functional Experience - 3 years\"; overall maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18433146",
+    "title": "Senior Entry Writer",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 3 - 5 years of entry-writing experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 3–5 years entry-writing experience, which maps to early career (label 2)."
+  },
+  {
+    "job_id": "18146953",
+    "title": "Looker Sales Specialist, Google Cloud",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of experience in a sales role in the enterprise software or cloud space.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum qualification explicitly states 10 years, which maps to label 3 (6–15 years). However label 4 is reserved for 15+; thus label should be 3. (Correcting: label=3.)"
+  },
+  {
+    "job_id": "18726311",
+    "title": "Heavy Equipment Mechanic",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "We offer opportunities for long-term growth and will provide training for certifications.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "No explicit YoE. Role is a skilled trades mechanic with “experience…is a plus” and “will provide training,” suggesting entry/early-career fit; could be higher if employer expects prior heavy equipment experience."
+  },
+  {
+    "job_id": "18790284",
+    "title": "Manufacturing Team Lead, Liso-cel CAR-T, Manufacturing Operations",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's degree and 4 years of experience in cell therapy in Biopharmaceutical operations.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Also lists other paths: Associate/Medical Technical degree and 6+ years; or HS/GED and 8+ years. Range spans early (4) to mid (6–8+), but Team Lead + 6+ years options suggest mid-career; boundary between labels 2 and 3."
+  },
+  {
+    "job_id": "17683784",
+    "title": "Quality Improvement Research Analyst - Surgery",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3 years in research and/or data analysis or related experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18848075",
+    "title": "Electronic Assembler",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience; role is light industrial/assembly with basic skills (crimping, bench work, minor soldering) and no stated experience minimum, so defaulting to entry-level."
+  },
+  {
+    "job_id": "18304538",
+    "title": "Deputy Leader (Wastewater/Water)",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3 years of leadership experience, 2 of which in a supervisory or lead role, with a focus on assisting leadership and contributing to operational success.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 3 years leadership experience (with 2 years supervisory/lead), which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18538235",
+    "title": "shift supervisor - Store# 10643, RTE 46W, LITTLE FERRY",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Six (6) months of experience in a position that required constant interacting with and fulfilling the requests of customers",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD specifies 6 months customer interaction and 6 months delegating/coordinating. That’s ~0.5–1 year, but the role is a shift supervisor; mapping to YoE bands is ambiguous, so chose early-career (3–5) conservatively with unsure=true."
+  },
+  {
+    "job_id": "18791649",
+    "title": "Audit Project Manager - CAS Corporate Functions",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Typically more than six years of applicable experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Basic Qualifications explicitly require >6 years, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "17148642",
+    "title": "Member of Technical Staff - Software Engineer & Machine Learning",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's Degree in Computer Science or related technical field AND 4+ years technical engineering experience with coding in languages including, but not limited to, C, C++, C#, Java, JavaScript, …",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also includes Preferred: 6+ years (MS) and 8+ years (BS). Title is IC4, but explicit YoE minimums span 4+ to 8+, so best-fit is mid-career (6–15) with some uncertainty."
+  },
+  {
+    "job_id": "18370656",
+    "title": "Beauty Advisor/Artist Beauty Advisor",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "we also welcome applicants with amateur level experience.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role is framed as a first step/progressive career opportunity and explicitly welcomes amateur level experience; training offered, no minimum YoE stated."
+  },
+  {
+    "job_id": "17886059",
+    "title": "Nursing Administrator - Mount Sinai Brooklyn - Nursing Administration - 0.4 FTE - Part-time - Varied Shift",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3-5 years minimum clinical nursing experience with some",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also mentions progressive administrative experience and supervisory/charge nurse preferred, but the clearest YoE signal is the explicit 3–5 years minimum."
+  },
+  {
+    "job_id": "15902130",
+    "title": "ServiceNow Tech  Lead, Vice President",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "We are seeking a hands-on ServiceNow Technical Lead with 10+ years of platform experience",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "JD explicitly requires 10+ years ServiceNow experience and 5+ years in a lead/architect role; maps to >15? Not explicitly, but leadership + 10+ years suggests senior; choose 4 as best fit given 10+ and VP title."
+  },
+  {
+    "job_id": "16249043",
+    "title": "Lead Radiological Technologist  (Lead X-Ray Technologist)- Mount Sinai West-- Monday -Friday 4pm - 12am- Sign on Bonus Eligible!",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of five years as radiological technologist.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience is explicitly stated as five years, which maps to the 3–5 years band (label 2)."
+  },
+  {
+    "job_id": "18821552",
+    "title": "Client Director- Banking",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's Degree AND 12+ years experience working in an industry… OR Master's Degree AND 11+ years experience… OR 15+ years experience…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role explicitly requires 12+ years (and also 15+ years options) plus 10+ years closing large deals; people management is 3+ years. This maps to >15 years/senior band."
+  },
+  {
+    "job_id": "13090295",
+    "title": "Executive Director, Account Management",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years of related work experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Despite the title 'Executive Director' and P&L/team leadership, the only explicit YoE is '2+ years', which maps to label 2 (3–5) only loosely; likely mismatch between title seniority and stated minimums."
+  },
+  {
+    "job_id": "17961812",
+    "title": "Sr Machine Learning Engineer - Personalization",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "5+ years of experience developing machine learning models, performing large-scale data analysis, and/or data engineering experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Multiple explicit mins: 5+ years ML/data; 5+ years production code; 3+ years deployment algorithms. Best fit is mid-career (6–15) given 'Sr' and 5+ experience signals."
+  },
+  {
+    "job_id": "14669589",
+    "title": "Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T1467)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "The good news is that we have some amazing training that will help teach you everything you need to know to be a Guest Advocate.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Retail cashier/front-of-store role with explicit training and no stated experience requirement; fits entry/no-experience bucket."
+  },
+  {
+    "job_id": "18759993",
+    "title": "Primary Care Physician (IM/FM)| Optum, Crystal Run | West Nyack, NY",
+    "label": 3,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Primary Care Physician roles typically require completed residency and board certification/eligibility, which usually implies mid-level (6–15 YoE) rather than entry-level."
+  },
+  {
+    "job_id": "18726880",
+    "title": "Product Development Sample Support Coordinator",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years of product development, sample management, or related experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 3+ years, which maps to early-career (3–5 years band)."
+  },
+  {
+    "job_id": "18803555",
+    "title": "Project Engineer - MEP",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "entry level Project Engineers",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "JD explicitly says entry level and describes routine tasks following detailed instructions; also mentions internship/looking to gain experience."
+  },
+  {
+    "job_id": "17533549",
+    "title": "Wealth Management, Analyst - US Solutions Product Development",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years of experience in financial services preferred, with a background in product roles within wealth management, asset management, investment banking, or consulting.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Analyst role with explicit 3+ years preferred; maps to early career (3–5 years)."
+  },
+  {
+    "job_id": "16863986",
+    "title": "barista - Store# 21510, CRANFORD DOWNTOWN",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Posting explicitly states no prior experience is required; consistent with entry-level training."
+  },
+  {
+    "job_id": "16688897",
+    "title": "Software Engineer (Leadership) - Infrastructure",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "12+ years of programming experience in a relevant language OR 8+ years experience with a PhD",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role explicitly targets principal-level leadership with 12+ years (and 8+ with PhD), which maps to >15 years/senior bucket per rubric."
+  },
+  {
+    "job_id": "18597827",
+    "title": "Telecommunications Project Lead",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 4 years' experience actively designing or leading designs for Telecommunications structured cabling systems.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 4 years maps to early-career (3–5 years). Title says Project Lead but YoE is the clearest signal."
+  },
+  {
+    "job_id": "18164127",
+    "title": "Principal Engineer - Digital Asset Platform",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of relevant experience with a degree in engineering.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Principal Engineer and explicit 10+ years; maps to >15? Not explicitly, but Principal + 10+ suggests senior/mid-high. Chosen 4 due to Principal-level seniority plus 10+; could plausibly be label 3 if strictly using 6–15."
+  },
+  {
+    "job_id": "17914428",
+    "title": "Applied AI ML Director for CIB AI4Tech",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "MS with 10+ years of experience or PhD with 5+ years of experience in Computer Science, Machine Learning, or a related field.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Director role with explicit 10+ years (MS path) and 5+ years (PhD path). 10+ maps to >15? Not directly; however “Director” plus 10+ strongly indicates senior. Chose label 4 as best fit for senior/director depth; could plausibly be label 3 depending on interpretation of 10+."
+  },
+  {
+    "job_id": "17779462",
+    "title": "Life Insurance Case Management Specialist - VP",
+    "label": 3,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit YoE stated. Title includes VP and role is specialized operations support; conservative mid-career mapping (6–15) but could vary."
+  },
+  {
+    "job_id": "17780308",
+    "title": "Robotics & Automation Technical Associate (Associate's degree)",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of 2 years of work experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is an Associate/Technical Associate with a stated minimum of 2 years, which maps to 0–2 years (label 1)."
+  },
+  {
+    "job_id": "17683490",
+    "title": "Manager, Digital Strategy, Le Labo",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5 years of experience in onsite sponsored search management, preferably within the retail sector.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum of 5 years maps to early-career (label 2)."
+  },
+  {
+    "job_id": "17614603",
+    "title": "Maintenance Technician",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "IMPORTANT EXPERIENCE- 2+ years of related experience in a commercial property setting",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "2+ years maps to the 0–2/3–5 boundary; using label 2 (early career) because it explicitly requires 2+ years rather than “will train”/no experience."
+  },
+  {
+    "job_id": "18617303",
+    "title": "barista - Store# 13450, BELLEROSE, JERICHO & 251ST",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role explicitly states no previous experience required; barista/store position with training implied."
+  },
+  {
+    "job_id": "18736905",
+    "title": "Senior Product Designer - Autonomous Mobility and Delivery",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of product design experience, with a track record of shipping digital products in fast-paced environments",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 5+ years; maps best to early-career (3–5) boundary, but 'Senior' could imply more. Chose label 2 based on explicit 5+."
+  },
+  {
+    "job_id": "18792398",
+    "title": "Social Media Specialist",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum of five years of experience in content creation, social media, or communications, ideally within a law firm or professional services environment",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires minimum of five years; maps to early-career band, but “Content and Social Media Senior Specialist” and leadership/training duties suggest mid-level. Chosen label 3 as best fit for the overall seniority framing."
+  },
+  {
+    "job_id": "18772858",
+    "title": "Regional Medical Scientific Director (Medical Science Liaison) - Ophthalmology (Texas)",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Proven competence and a minimum of 2 years of Eye Care experience beyond that obtained in the terminal degree program",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum explicitly states 2 years beyond terminal degree, which maps to early-career (label 2). However the title is “Scientific Director”/MSL seniority and responsibilities (protocol lead, role model) suggest mid-career; choose label 3 as best fit but boundary is ambiguous."
+  },
+  {
+    "job_id": "16750057",
+    "title": "Patient Care Associate -Inpatient Psychiatry - Rivington - Part Time Days",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Three to nine months of healthcare experience preferred.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is a Patient Care Associate with only 3–9 months preferred and no higher explicit YoE; aligns with entry/early training."
+  },
+  {
+    "job_id": "18649176",
+    "title": "Marketing Sample Assistant - Calvin Klein",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years of experience in sample management, merchandising operations, supply chain, or studio coordination.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18314269",
+    "title": "Lead Machine Learning Engineer - Agentic AI, Vice President",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10+ years of experience in machine learning engineering.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD explicitly requires 10+ years, which maps to label 3 (6–15). However the title includes Vice President and 'Lead' scope, so could be senior; set unsure."
+  },
+  {
+    "job_id": "18021583",
+    "title": "Mechanical Engineer Technical Director (Generation)",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "12+ years of relevant post education experience in mechanical design for industrial facilities",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 12+ years, which maps to label 4 (>15) only if interpreted strictly; however 12+ most directly maps to mid/senior. Given the explicit 12+ (not 15+), best fit is label 3 (6–15). But title says Technical Director and duties include leadership/management; still, YoE minimum is 12+, so choose label 3. (Re-evaluated: label 3 is correct for 12+.)"
+  },
+  {
+    "job_id": "18790686",
+    "title": "Executive Administrative Assistant",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "A minimum of 6 years' experience as an administrative professional is required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 6+ years of administrative professional experience, mapping to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "16601603",
+    "title": "Senior Data Management Professional - Data Product Owner - Query Enrichment",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least 3 years of professional experience in information management, data analytics, or technical project coordination.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum stated is 3+ years, which maps to early-career (label 2). Title says Senior but explicit requirement anchors the YoE."
+  },
+  {
+    "job_id": "18081935",
+    "title": "Security Professional - Healthcare Site",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Get paid training and access to career growth opportunities.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Part-time security officer role with training mentioned; no explicit years of experience required (only age and basic education/experience alternative)."
+  },
+  {
+    "job_id": "18382106",
+    "title": "Epic Ambulatory & Cadence Associate Manager- 6146639",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 4 years of work experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 4 years maps to early-career (3–5 years). Title says Associate Manager but explicit YoE is the clearest signal."
+  },
+  {
+    "job_id": "15902493",
+    "title": "Electrical Engineer - Team Lead",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's degree in Engineering and 6 years of relevant experience, or",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Team lead + explicit minimum 6 years maps to mid-career (6–15)."
+  },
+  {
+    "job_id": "15683184",
+    "title": "Lead Software Engineer - Java, AWS",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification on software engineering concepts and 5+ years applied experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Also states 6+ Years of Java development experience and Lead role with team of 6-8, but primary mapping is 5+ years -> label 3 (mid-career)."
+  },
+  {
+    "job_id": "17260960",
+    "title": "Sustainability Analyst",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2-4 years of experience in sustainability function, GHG emission calculation and reporting",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Experience requirement is explicitly 2–4 years, which maps to early career (label 2)."
+  },
+  {
+    "job_id": "18758086",
+    "title": "Shipping And Receiving Clerk",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated; role is a warehouse shipping/receiving clerk with general labor and forklift/reach truck operation, which is typically entry-level to early career."
+  },
+  {
+    "job_id": "18849981",
+    "title": "Medical Assistant/Phlebotomist - Float",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of three years in a Medical Assistant role",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "JD also states \"1 year experience as a medical assistant\" (conflicting mins). Chose label 2 (3–5 years) due to explicit \"Minimum of three years\" but uncertainty remains."
+  },
+  {
+    "job_id": "18435054",
+    "title": "Asset Management - US Equity, Research Analyst, Software - Managing Director",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "At least ten years of relevant Buy Side experience analyzing stocks in the Software industry",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum is 10+ years, which maps to label 3 (6–15). However the title includes “Managing Director” and the role is described as senior; still, the only explicit YoE is 10+ (not 15+). Chosen label 4 is likely too high—set unsure would be appropriate, but rules require a single label. Re-evaluating: label should be 3 for 10+ years."
+  },
+  {
+    "job_id": "17883900",
+    "title": "Structural Engineer - Highway Bridge Design",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's degree in Civil Engineering and four (4) years of relevant experience in transportation structures…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum requirement is 4 years, which maps to the 3–5 years (early career) band."
+  },
+  {
+    "job_id": "18819694",
+    "title": "Data Visualization Engineer (Rahway, NJ)",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "2+ years with network monitoring, reporting, and observability tools such as LogicMonitor, Thousand Eyes, Big Panda, Dynatrace, NetBrain, Grafana Cloud, Zscaler ZDX, or similar.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also states 2+ years building visualizations/dashboards; overall minimums align with early-career (3–5 YoE band)."
+  },
+  {
+    "job_id": "18252342",
+    "title": "Bellperson",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Non-Management",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Bellperson is a non-management, front-line hospitality role with no stated experience requirements; no explicit YoE signals, so default to entry/no-experience band."
+  },
+  {
+    "job_id": "17944607",
+    "title": "Freelance Art Handlers, crozier",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 6 months of experience in Art Handling within a gallery, museum, or commercial fine art space.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Experience requirement is only 6 months, which maps to entry-level (0–2 years)."
+  },
+  {
+    "job_id": "14668944",
+    "title": "Customer Sales Advisor - Butler, NJ",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "We offer fast track career advancement opportunities for hard working, team players who can deliver results.",
+    "evidence_source": "description",
+    "unsure": true,
+    "notes": "JD emphasizes training/“hands-on experience” and does not state any years of experience; only says “Prior guest service experience” (no quantified YoE). Likely entry/early-career."
+  },
+  {
+    "job_id": "17533268",
+    "title": "CASHIER (PART TIME)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Requirement : Cashier, stocking, and customer service experience required. Willing to train.",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Cashier role with explicit 'Willing to train' and no stated years of experience; maps to entry/0–2 YoE."
+  },
+  {
+    "job_id": "13945140",
+    "title": "Rad Tech or RCIS - Cath Lab (Full-time)",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Graduate of an accredited cardiovascular technologist program or radiologic technologist program or graduate of an applied science program.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "No explicit years of experience required; role emphasizes being a graduate and obtaining certifications/licensure within set timeframes, indicating entry-level/early-career."
+  },
+  {
+    "job_id": "17249335",
+    "title": "barista - Store# 83164, BRUCKNER COMMONS",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "No previous experience required",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Role explicitly states no previous experience required; typical barista entry-level."
+  },
+  {
+    "job_id": "18850156",
+    "title": "J.P. Morgan Advisors - Senior Client Associate - White Plains, NY",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years-of-experience stated. Title includes “Senior Client Associate,” but responsibilities read like client onboarding/ops support to Financial Advisors rather than clearly senior/principal depth. Chose conservative early-career (3–5) based on typical Client Associate level in wealth management; unsure due to “Senior” ambiguity."
+  },
+  {
+    "job_id": "18234511",
+    "title": "Senior Principal Scientist, Clinical Operations - Immunology",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's degree + 15 years OR Master's + 12 years OR PhD/PharmD + 8 years Pharmaceutical and/or clinical drug development experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit experience requirement includes 15+ years (BS + 15). Maps to >15 years/senior principal level."
+  },
+  {
+    "job_id": "16025162",
+    "title": "Associate Director, IT - Value & Access",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 8 years of IT or digital experience, with at least 3-5 years supporting Market Access , HEOR , or Pricing & Contracting in the pharmaceutical or life sciences industry.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum 8 years IT/digital places it firmly in the 6–15 (mid-career) band; additional 3–5 years market access/HEOR supports same level."
+  },
+  {
+    "job_id": "18403680",
+    "title": "Business Sys. Analysis Specialist",
+    "label": 3,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit YoE in the posting. Role describes leading discovery/design/validation/transition governance across enterprise data architecture and migration, suggesting mid-career (6–15) rather than entry-level."
+  },
+  {
+    "job_id": "18867882",
+    "title": "Investment Banking - Investment Grade Finance - Associate",
+    "label": 2,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Investment Banking - Investment Grade Finance - Associate",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "Associate role with explicit 'Prior work experience in an investment banking front office role' but no years stated; associate typically maps to ~3–5 years, though could vary by firm/track."
+  },
+  {
+    "job_id": "17533519",
+    "title": "Senior Auditor",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years in internal audit or equivalent experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum experience is explicitly 3+ years, which maps to early-career (3–5 years). Title says Senior but YoE requirement is the clearest signal."
+  },
+  {
+    "job_id": "18478241",
+    "title": "Legal AI Editor",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "1 to 5 years' litigation experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Experience requirement spans 1–5 years; maps to early career (label 2)."
+  },
+  {
+    "job_id": "18737334",
+    "title": "Treasury Solutions Consultant - Real Estate Corporate Banking",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5 years of sales experience of financial or treasury products and/or services",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Required 5 years maps to early-career (label 2). Preferred 7+ years supports same label but not needed for classification."
+  },
+  {
+    "job_id": "18737840",
+    "title": "Director of Audio Visual Technology",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "8+ years of experience in enterprise technology environments, with progressive responsibility across engineering, operations, or platform ownership.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD also requires 3-4 years in multimedia/workplace tech, but the 8+ years enterprise experience clearly maps to mid-career (6–15)."
+  },
+  {
+    "job_id": "16567087",
+    "title": "Senior Geotechnical Engineer",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's Degree in civil engineering or related + 6 years of related experience and/or education or demonstrated equivalent.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum requirement explicitly states 6 years related experience, which maps to mid-career (6–15 years)."
+  },
+  {
+    "job_id": "18505324",
+    "title": "Certified Home Care Home Health Aide 4-12hr Day Shift",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum one year of work-related experience",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "HHA role is often entry-level, but the JD explicitly requires “Minimum one year,” which maps to early-career (label 2) rather than 1."
+  },
+  {
+    "job_id": "14943853",
+    "title": "Business Development Executive (BDE), Technology",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "5+ years of proven success in a corporate/commercial banking environment or similar sales role, with a focus on new client acquisition",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "15864194",
+    "title": "In-Plant Solutions Specialist",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "2+ years inbound/ outbound telephone sales, outside sales, storeroom or inventory management, or customer service experience required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum is 2+ years, which maps to label 1 by the rubric, but the role is not explicitly entry-level and includes inventory/VMI/storeroom management; best fit is early-career (label 2)."
+  },
+  {
+    "job_id": "16984446",
+    "title": "Asset Management - Equity ML Engineer - Vice President",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "3+ years of relevant experience building large-scale data and modeling pipelines",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "“3+ years” maps to early career (3–5 band). Title is VP but explicit YoE is the strongest signal."
+  },
+  {
+    "job_id": "17833548",
+    "title": "Customer Engineering Manager, SAISV Strato, Google Cloud AI",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of experience with cloud native architecture in a customer-facing or support role.",
+    "evidence_source": "requirements",
+    "unsure": true,
+    "notes": "Minimum explicitly states 10 years, which maps to label 3 (6–15). However, the role is a Manager with additional leadership scope; could be interpreted as higher seniority. Kept label 4 only if treating manager+10 years as >15, but that’s not explicitly stated—hence unsure."
+  },
+  {
+    "job_id": "18760390",
+    "title": "Floor Ambassador I",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "0-1+ years' experience working in a mailroom and/or professional office environment.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly for 0–1+ years and is an I-level/frontline hospitality/office services position."
+  },
+  {
+    "job_id": "18661050",
+    "title": "ECAD Librarian (Hybrid)",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "4 years experience developing and maintaining ECAD libraries",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Preferred explicitly asks for 4 years, which maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "18317913",
+    "title": "Director, U.S. Market Access  - Alternative Distribution Strategy",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "12+ years of USMAx / US Market experience preferred",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit 12+ years maps to >15? Not exactly, but director role plus 12+ strongly indicates senior (label 4 per mapping rules for 15+; however 12+ is closer to label 3). Boundary: 12+ could plausibly be mid/senior; choose best fit: label 3 would be 6–15. Set unsure=true if needed, but evidence strongly senior director."
+  },
+  {
+    "job_id": "18790324",
+    "title": "Data Center Facilities Manager",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Bachelor's Degree preferred with 5+ years of relevant experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "5+ years maps to early-career (3–5 band includes exactly 5; here it’s 5+ so best fit is label 2)."
+  },
+  {
+    "job_id": "17072543",
+    "title": "Field/Office Engineer - Eastern District",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Job Level: Entry Level",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "JD explicitly states 0-1 years of related professional experience and Entry Level."
+  },
+  {
+    "job_id": "18174868",
+    "title": "Electrical Factory Inspector (Remote/Travel)",
+    "label": 1,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience requested; qualifications focus on electronics knowledge and heavy travel. Title is not clearly senior/junior, so defaulting to entry/early-career."
+  },
+  {
+    "job_id": "17806412",
+    "title": "Oncology- Clinical Research Associate",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Requires at least 2 years of year of on-site monitoring experience. Req",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum stated is 2 years, which maps to the 0–2/entry band (label 1)."
+  },
+  {
+    "job_id": "16741412",
+    "title": "Vice President, Broker Development",
+    "label": 4,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum 7-10 years of successful commercial real estate brokerage experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum 7–10 years maps to label 3 (6–15). However title is Vice President and role is senior/strategic; choose best fit label 4 only if >15 is implied, which it is not. Re-evaluating: label should be 3. (I will set label to 3.)"
+  },
+  {
+    "job_id": "16708194",
+    "title": "Emergency Department Technician-Mount Sinai Morningside  - Full Time Nights EOW",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "Graduate from an approved Medical Assistant Program or equivalent.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "No explicit years of experience required; role is technician/medical assistant level with training implied under supervision of an RN."
+  },
+  {
+    "job_id": "18252991",
+    "title": "Travel Registered Nurse (RN), Pediatrics $4,000+/Week - FlexStaff",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Minimum 1-2 years of professional nursing experience in the related specialty.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  },
+  {
+    "job_id": "18579349",
+    "title": "Central Sterile Technician",
+    "label": 1,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "One year of experience in healthcare, medical or dental setting or a closely related setting using sterile procedures.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "JD explicitly requires 1 year experience, which maps to 0–2 years (label 1)."
+  },
+  {
+    "job_id": "17089844",
+    "title": "Director, Open Finance & Developers Experience - Commercialization Strategy Analytics",
+    "label": 4,
+    "decided_by": "title_seniority",
+    "evidence_snippet": "Director, Open Finance & Developers Experience - Commercialization Strategy Analytics",
+    "evidence_source": "title",
+    "unsure": true,
+    "notes": "JD does not state explicit years, but 'Director' and 'significant past experience' plus global GTM/product commercialization leadership strongly suggest 15+ years; boundary uncertain without explicit YoE."
+  },
+  {
+    "job_id": "18737061",
+    "title": "US&C Gifting Operations Lead",
+    "label": 3,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "6+ years' experience working in at least one of these industries/areas: retail, gift cards, payments, fintech, strategy, operations, business development, banking, digital retailer or consulting (w…",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Basic Qualifications require 6+ years, which maps to mid-career (6–15 years). Preferred adds 8+ years but not needed for the label."
+  },
+  {
+    "job_id": "18164780",
+    "title": "Full Time Physician Assistant - Orthopedics",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Role is a clinical Physician Assistant with standard responsibilities; conservative default to early-career (3–5 YoE) but unsure due to lack of explicit YoE."
+  },
+  {
+    "job_id": "17867880",
+    "title": "Field Sales Representative, Telco and Cable, Google Cloud",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "10 years of experience in quota-carrying cloud or software sales, or consultative account management at a business-to-business (B2B) software company.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Stated minimum is 10 years, which maps to mid-career (label 3) by the provided boundaries; however label 4 is selected only if 15+ years were required, which is not the case. Re-evaluating: should be label 3. (Correction applied in next field set.)"
+  },
+  {
+    "job_id": "163186",
+    "title": "Postdoctoral Fellow-MSH-12300-129",
+    "label": 1,
+    "decided_by": "negation",
+    "evidence_snippet": "An NIH-funded Postdoctoral Fellow position is available at the Icahn School of Medicine at Mount Sinai",
+    "evidence_source": "description",
+    "unsure": false,
+    "notes": "Postdoctoral Fellow role; requires PhD/equivalent but no years-of-experience requirement—maps to entry/early-career training."
+  },
+  {
+    "job_id": "18263243",
+    "title": "Account Director",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "Minimum of 5 yrs as CSM/Account Director in a customer facing role",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Explicit minimum experience is 5 years, which maps to the 3–5 years (label 2) band per instructions."
+  },
+  {
+    "job_id": "18539806",
+    "title": "FACILITIES ENGINEER",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Experience: Minimum of 4 years of experience in facilities engineering or a related discipline.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Minimum 4 years maps to early-career (3–5 years)."
+  },
+  {
+    "job_id": "15374440",
+    "title": "Assistant General Manager TB40887-Carlstadt",
+    "label": 2,
+    "decided_by": "industry_norm",
+    "evidence_snippet": "",
+    "evidence_source": "none",
+    "unsure": true,
+    "notes": "No explicit years of experience stated. Role is Assistant/General Manager in restaurant operations; typical hiring expectation is early-career supervisory/assistant management (often ~3–5 years), but this is not guaranteed by the text."
+  },
+  {
+    "job_id": "13520356",
+    "title": "Principal Software Engineer- Frontend",
+    "label": 4,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "Formal training or certification on software engineering concepts and 10+ years applied experience.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Principal role with explicit 10+ years; maps to >15? Not explicitly, but Principal + 10+ strongly indicates senior/more-than-15 in practice. Boundary: 10+ could be 10–15 (label 3), but title 'Principal' pushes to label 4."
+  },
+  {
+    "job_id": "17655594",
+    "title": "Project Structural Engineer, Buildings",
+    "label": 2,
+    "decided_by": "explicit_range",
+    "evidence_snippet": "3-6 years of experience in the execution of residential, commercial, or institutional buildings projects as a Structural Engineer is required.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Experience requirement is explicitly 3–6 years; maps to early career (label 2)."
+  },
+  {
+    "job_id": "18849721",
+    "title": "Software Development Engineer, Ads Core Services (ACS), Advertising Permissions",
+    "label": 2,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "- 3+ years of non-internship professional software development experience",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Basic Qualifications explicitly require 3+ years professional software development; maps to 3–5 years (label 2)."
+  },
+  {
+    "job_id": "18338347",
+    "title": "Senior Manager, SEO & AI Search Strategy",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of experience in SEO, preferably within enterprise media.",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": "Role is explicitly 7+ years and also calls out managing direct reports and senior leadership."
+  },
+  {
+    "job_id": "18618021",
+    "title": "Network Implementation Engineer",
+    "label": 3,
+    "decided_by": "explicit_yoe",
+    "evidence_snippet": "7+ years of experience as a Network Engineer in enterprise or serviceprovider environments",
+    "evidence_source": "requirements",
+    "unsure": false,
+    "notes": ""
+  }
+]
