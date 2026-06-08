@@ -82,7 +82,7 @@ Each entry in `gold100.json` / `silver400.json` looks like:
   "job_id": "12345",
   "label": 3,
   "unsure": false,
-  "decided_by": "rule:explicit_yoe",
+  "decided_by": "explicit_yoe",
   "evidence_snippet": "minimum 7 years of experience",
   "evidence_source": "description"
 }
